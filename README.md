@@ -7,7 +7,7 @@ The rapid growth of the dementia population emphasizes the urgent need for acces
 
 
 
-![main_figures_from_paper](readme_figures/ProtAIDe-Dx.jpg)
+![main_figures_from_paper](./ProtAIDe-Dx.jpg)
 
 ---
 
