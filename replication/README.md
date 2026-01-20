@@ -91,7 +91,7 @@ To replicate the individual probability map visualization in our manuscript, ple
 bash replication/scripts/step2_replica_fig2_GNPC.sh
 ```
 
-Once the script is done, you can see an message `Congrats! You have replicated Fig2: tSNE` if you have successfully replicated. Meanwhile, you can find a very similar tSNE figure at `results/replica/Fig2/Fig2_tSNE.png` like below:
+Once the script is done, you can see an message `Congrats! You have replicated Fig2: tSNE` if you have successfully replicated. Meanwhile, you can find a very similar figure at `results/replica/Fig2/Fig2_tSNE.png` like below:
 
 <div align="center">
   <img src="./readme_figures/Fig2_tSNE.png" alt="Figure" width="480">
@@ -107,7 +107,7 @@ To replication the model explanation results in our manuscript, please run:
 bash replication/scripts/step3_replica_fig3_GNPC.sh
 ```
 
-Once the script is done, you can see an message `Congrats! You have replicated Fig3: permFIT` if you have successfully replicated. Meanwhile, you can find a very similar tSNE figure at `results/replica/Fig3/Fig3_ImportanceProteins.png` like below:
+Once the script is done, you can see an message `Congrats! You have replicated Fig3: permFIT` if you have successfully replicated. Meanwhile, you can find a very similar figure at `results/replica/Fig3/Fig3_ImportanceProteins.png` like below:
 
 <div align="center">
   <img src="./readme_figures/Fig3_ImportantProteins.png" alt="Figure" width="1080">
@@ -148,7 +148,7 @@ To replication the MMSE trajectory differentiable by baseline predictions in our
 bash replication/scripts/step5_replica_fig5_GNPC.sh
 ```
 
-Once the script is done, you can see an message `Congrats! You have replicated Fig5: MMSE Trajectory (GNPC)` if you have successfully replicated. Meanwhile, you can find a very similar tSNE figure at `results/replica/Fig5/Fig5_LME_GNPC.png` like below:
+Once the script is done, you can see an message `Congrats! You have replicated Fig5: MMSE Trajectory (GNPC)` if you have successfully replicated. Meanwhile, you can find a very similar figure at `results/replica/Fig5/Fig5_LME_GNPC.png` like below:
 
 <div align="center">
   <img src="./readme_figures/Fig5_LME_GNPC.png" alt="Figure" width="360">
@@ -212,13 +212,13 @@ To replicate the two key clinical utility validation results of ProtAIDe-Dx, ple
 bash replication/scripts/step7_replica_fig5_BF2.sh
 ```
 
-[1] Once the script is done, you can see an message `Congrats! You have replicated Fig5: Differential Diagnosis` if you have successfully replicated. Meanwhile, you can find two very similar figures at `results/replica/Fig5_BF2/DifferentialDiagnosis/Fig5_BF2_DiffDx` like below:
+[1] Once the script is done, you can see an message `Congrats! You have replicated Fig5: Differential Diagnosis` if you have successfully replicated. Meanwhile, you can find a very similar figure at `results/replica/Fig5_BF2/DifferentialDiagnosis/Fig5_BF2_DiffDx` like below:
 
 <div align="center">
   <img src="./readme_figures/Fig5_BF2_DiffDX.png" alt="Figure" width="720">
 </div>
 
-[2] Once the script is done, you can see an message `Congrats! You have replicated Fig5: MMSE Trajectory (BF2)` if you have successfully replicated. Meanwhile, you can find two very similar figures at `results/replica/Fig5_BF2/MMSE_Trajectory/Fig5_BF2_MMSE_MCI` like below:
+[2] Once the script is done, you can see an message `Congrats! You have replicated Fig5: MMSE Trajectory (BF2)` if you have successfully replicated. Meanwhile, you can find a very similar figure at `results/replica/Fig5_BF2/MMSE_Trajectory/Fig5_BF2_MMSE_MCI` like below:
 
 <div align="center">
   <img src="./readme_figures/Fig5_BF2_MMSE_MCI.png" alt="Figure" width="360">
