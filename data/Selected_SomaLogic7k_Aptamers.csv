@@ -1,0 +1,649 @@
+Aptamer,Feature,Target,TargetFullName,UniPort,EntrezGeneID,EntrezGeneSymbol,Fold0,Fold1,Fold2,Fold3,Fold4,Fold5,Fold6,Fold7,Fold8,Fold9
+seq.10023.32,seq_10023_32,VDR,Vitamin D3 receptor,P11473,7421,VDR,1,1,1,1,1,1,1,1,1,1
+seq.10039.32,seq_10039_32,PNP,Purine nucleoside phosphorylase,P00491,4860,PNP,1,1,1,1,1,1,1,1,1,1
+seq.10041.3,seq_10041_3,HNF4A,Hepatocyte nuclear factor 4-alpha,P41235,3172,HNF4A,1,0,0,1,0,0,0,0,0,0
+seq.10044.12,seq_10044_12,WN10A,Protein Wnt-10a,Q9GZT5,80326,WNT10A,1,1,1,1,1,1,1,1,1,1
+seq.10047.12,seq_10047_12,NCF-2,Neutrophil cytosol factor 2,P19878,4688,NCF2,1,1,1,1,0,1,1,1,1,1
+seq.10075.75,seq_10075_75,ACBD6,Acyl-CoA-binding domain-containing protein 6,Q9BR61,84320,ACBD6,1,1,1,1,1,1,1,1,1,1
+seq.10082.251,seq_10082_251,NFL,Neurofilament light polypeptide,P07196,4747,NEFL,1,1,1,1,1,1,1,1,1,1
+seq.10088.37,seq_10088_37,APT,Adenine phosphoribosyltransferase,P07741,353,APRT,1,1,1,1,1,1,1,1,1,1
+seq.10362.35,seq_10362_35,c-Myc,Myc proto-oncogene protein,P01106,4609,MYC,0,0,0,0,0,0,0,0,1,0
+seq.10419.1,seq_10419_1,SCAR5,Scavenger receptor class A member 5,Q6ZMJ2,286133,SCARA5,0,0,1,1,0,1,1,1,0,0
+seq.10425.3,seq_10425_3,B4GT5,"Beta-1,4-galactosyltransferase 5",O43286,9334,B4GALT5,1,1,1,1,1,1,1,1,1,1
+seq.10426.21,seq_10426_21,GOSR2,Golgi SNAP receptor complex member 2,O14653,9570,GOSR2,1,1,1,1,1,1,1,1,0,1
+seq.10485.56,seq_10485_56,MAGE-4,Melanoma-associated antigen 4,P43358,4103,MAGEA4,0,0,0,0,0,0,0,0,0,1
+seq.10510.62,seq_10510_62,SCIMP,SLP adapter and CSK-interacting membrane protein,Q6UWF3,388325,SCIMP,0,0,0,0,0,0,0,0,0,1
+seq.10513.13,seq_10513_13,CSEN,Calsenilin,Q9Y2W7,30818,KCNIP3,1,1,1,1,1,1,1,1,1,1
+seq.10521.10,seq_10521_10,MXRA8:ECD,Matrix-remodeling-associated protein 8:Extracellular domain,Q9BRK3,54587,MXRA8,0,1,0,0,0,0,0,0,0,1
+seq.10534.40,seq_10534_40,PARP:BRCT domain,Poly [ADP-ribose] polymerase 1:BRCA1 C-terminal:BRCA1 C-terminus domian,P09874,142,PARP1,0,0,0,0,0,1,0,0,0,0
+seq.10554.23,seq_10554_23,BGAL,Beta-galactosidase,P16278,2720,GLB1,0,0,0,0,0,0,1,0,0,0
+seq.10562.42,seq_10562_42,NETO2,Neuropilin and tolloid-like protein 2,Q8NC67,81831,NETO2,1,1,1,1,1,1,1,1,1,1
+seq.10574.10,seq_10574_10,b2-Microglobulin,Beta-2-microglobulin,P61769,567,B2M,1,0,0,0,0,0,0,1,1,0
+seq.10588.39,seq_10588_39,SIAT9,"Lactosylceramide alpha-2,3-sialyltransferase",Q9UNP4,8869,ST3GAL5,0,0,1,0,0,0,0,0,0,0
+seq.10620.21,seq_10620_21,PSP-94,Beta-microseminoprotein,P08118,4477,MSMB,0,0,1,1,1,0,0,0,0,0
+seq.10663.42,seq_10663_42,INSI1,Insulin-induced gene 1 protein,O15503,3638,INSIG1,0,0,0,0,1,1,0,0,0,0
+seq.10754.113,seq_10754_113,Prokineticin-2,Prokineticin-2,Q9HC23,60675,PROK2,0,0,0,0,0,0,1,0,0,1
+seq.10760.107,seq_10760_107,GRIA4,Glutamate receptor 4,P48058,2893,GRIA4,0,0,0,0,0,0,1,0,0,0
+seq.10785.8,seq_10785_8,LRC52,Leucine-rich repeat-containing protein 52,Q8N7C0,440699,LRRC52,1,0,0,0,0,0,0,0,0,0
+seq.10818.36,seq_10818_36,ASM,Sphingomyelin phosphodiesterase,P17405,6609,SMPD1,0,0,0,1,0,0,0,0,1,0
+seq.10880.38,seq_10880_38,F163B,Protein FAM163B,P0C2L3,642968,FAM163B,0,0,0,0,0,0,0,1,0,0
+seq.10902.53,seq_10902_53,APRV1,Retroviral-like aspartic protease 1,Q53RT3,151516,ASPRV1,1,1,1,1,1,1,1,1,1,1
+seq.10949.59,seq_10949_59,RLA2,60S acidic ribosomal protein P2,P05387,6181,RPLP2,0,1,1,0,0,1,1,0,0,0
+seq.10967.12,seq_10967_12,PRL,Prolactin,P01236,5617,PRL,0,0,0,0,0,0,0,0,0,1
+seq.10970.3,seq_10970_3,NAR3,Ecto-ADP-ribosyltransferase 3,Q13508,419,ART3,1,1,1,1,1,1,1,1,1,1
+seq.10975.59,seq_10975_59,MUCL1,Mucin-like protein 1,Q96DR8,118430,MUCL1,0,0,0,0,0,0,0,0,0,1
+seq.10978.39,seq_10978_39,SOM2,Growth hormone variant,P01242,2689,GH2,0,0,0,0,0,0,0,1,1,0
+seq.10980.11,seq_10980_11,ACES,Acetylcholinesterase,P22303,43,ACHE,1,1,1,1,1,1,1,1,1,1
+seq.10981.56,seq_10981_56,NRG3,"Pro-neuregulin-3, membrane-bound isoform",P56975,10718,NRG3,1,0,0,0,0,0,0,0,0,0
+seq.11083.23,seq_11083_23,NSE,Gamma-enolase,P09104,2026,ENO2,0,1,0,0,0,0,0,0,0,0
+seq.11098.1,seq_11098_1,PDXK,Pyridoxal kinase,O00764,8566,PDXK,1,0,0,1,1,1,1,1,0,0
+seq.11104.13,seq_11104_13,YKL-40,Chitinase-3-like protein 1,P36222,1116,CHI3L1,0,0,0,1,0,0,0,0,0,0
+seq.11105.171,seq_11105_171,Alpha enolase,Alpha-enolase,P06733,2023,ENO1,1,1,1,1,1,1,1,1,1,1
+seq.11109.56,seq_11109_56,SVEP1:Sushi 15-18,"Sushi, von Willebrand factor type A, EGF and pentraxin domain-containing protein 1:Sushi 15-18",Q4LDE5,79987,SVEP1,0,1,1,1,1,0,1,1,0,0
+seq.11177.16,seq_11177_16,K2C5,"Keratin, type II cytoskeletal 5",P13647,3852,KRT5,1,1,0,0,0,0,0,1,1,1
+seq.11186.12,seq_11186_12,TMM52,Transmembrane protein 52,Q8NDY8,339456,TMEM52,0,0,0,0,0,0,0,1,0,0
+seq.11203.97,seq_11203_97,KPYR,Pyruvate kinase PKLR,P30613,5313,PKLR,0,0,0,0,0,0,0,1,0,0
+seq.11211.7,seq_11211_7,TBCE,Tubulin-specific chaperone E,Q15813,6905,TBCE,1,1,0,0,0,1,1,0,0,0
+seq.11215.6,seq_11215_6,CAD15:CD,Cadherin-15:Cytoplasmic domain,P55291,1013,CDH15,0,0,0,0,1,0,0,0,0,0
+seq.11219.95,seq_11219_95,FGFP3,Fibroblast growth factor-binding protein 3,Q8TAT2,143282,FGFBP3,1,0,1,1,1,1,1,1,1,1
+seq.11232.46,seq_11232_46,Holo-TC I,Transcobalamin-1,P20061,6947,TCN1,0,0,0,1,0,0,0,0,0,0
+seq.11246.3,seq_11246_3,LPLC1,BPI fold-containing family B member 1,Q8TDL5,92747,BPIFB1,0,0,0,0,1,0,0,0,0,0
+seq.11257.1,seq_11257_1,DHPR,Dihydropteridine reductase,P09417,5860,QDPR,1,1,1,1,1,1,1,1,1,1
+seq.11293.14,seq_11293_14,LRRN1:CD,Leucine-rich repeat neuronal protein 1:Cytoplasmic domain,Q6UXK5,57633,LRRN1,1,1,1,1,1,1,1,1,1,1
+seq.11318.20,seq_11318_20,Apo A-V,Apolipoprotein A-V,Q6Q788,116519,APOA5,0,0,0,0,0,0,0,0,1,0
+seq.11320.29,seq_11320_29,CHFR,E3 ubiquitin-protein ligase CHFR,Q96EP1,55743,CHFR,0,0,0,0,0,0,0,1,1,0
+seq.11351.233,seq_11351_233,NHEJ1,Non-homologous end-joining factor 1,Q9H9Q4,79840,NHEJ1,0,1,1,1,1,1,1,0,0,1
+seq.11354.21,seq_11354_21,Phospholipase C-beta-1,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-1",Q9NQ66,23236,PLCB1,1,1,0,0,1,1,1,1,1,1
+seq.11402.17,seq_11402_17,KMT2C,Histone-lysine N-methyltransferase 2C,Q8NEZ4,58508,KMT2C,0,1,0,0,0,0,0,0,0,0
+seq.11450.110,seq_11450_110,Protein disulfide-isomerase,Protein disulfide-isomerase,P07237,5034,P4HB,1,0,0,0,0,0,1,1,0,0
+seq.11481.25,seq_11481_25,TIMD3,Hepatitis A virus cellular receptor 2,Q8TDQ0,84868,HAVCR2,0,1,0,0,0,0,0,0,0,0
+seq.11487.4,seq_11487_4,Testican-1,Testican-1,Q08629,6695,SPOCK1,0,0,0,1,1,1,0,0,0,0
+seq.11513.92,seq_11513_92,CD38,ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 1,P28907,952,CD38,0,0,0,0,0,1,0,0,0,0
+seq.11544.39,seq_11544_39,PHF3,PHD finger protein 3,Q92576,23469,PHF3,0,0,0,0,0,1,0,0,0,0
+seq.11547.84,seq_11547_84,MUSK,"Muscle, skeletal receptor tyrosine-protein kinase",O15146,4593,MUSK,1,0,0,0,0,0,0,0,0,0
+seq.11548.84,seq_11548_84,MPIP1,M-phase inducer phosphatase 1,P30304,993,CDC25A,1,1,1,1,1,1,1,1,1,1
+seq.11557.3,seq_11557_3,SMUF1,E3 ubiquitin-protein ligase SMURF1,Q9HCE7,57154,SMURF1,1,0,1,0,0,0,0,0,0,0
+seq.11568.2,seq_11568_2,FKB1B,Peptidyl-prolyl cis-trans isomerase FKBP1B,P68106,2281,FKBP1B,1,1,1,1,1,1,1,1,1,1
+seq.11643.73,seq_11643_73,DTX3L,E3 ubiquitin-protein ligase DTX3L,Q8TDB6,151636,DTX3L,0,0,0,1,0,0,0,0,0,0
+seq.11654.77,seq_11654_77,NRSN1,Neurensin-1,Q8IZ57,140767,NRSN1,0,0,0,0,0,1,0,0,0,0
+seq.11827.7,seq_11827_7,RORG,Nuclear receptor ROR-gamma,P51449,6097,RORC,0,0,0,0,0,0,1,0,0,0
+seq.11949.25,seq_11949_25,EGF:CD,Epidermal growth factor:Cytoplasmic domain,P01133,1950,EGF,0,0,0,0,0,0,0,0,1,0
+seq.12343.14,seq_12343_14,CENB2,"Arf-GAP with coiled-coil, ANK repeat and PH domain-containing protein 2",Q15057,23527,ACAP2,1,1,0,1,0,0,1,1,0,0
+seq.12352.70,seq_12352_70,ARRD3,Arrestin domain-containing protein 3,Q96B67,57561,ARRDC3,1,1,1,1,1,1,1,1,1,1
+seq.12384.92,seq_12384_92,CSN7B,COP9 signalosome complex subunit 7b,Q9H9Q2,64708,COPS7B,0,1,0,0,0,0,0,0,0,0
+seq.12385.4,seq_12385_4,CAN3,Calpain-3,P20807,825,CAPN3,0,0,1,1,0,1,1,0,0,0
+seq.12459.13,seq_12459_13,PKHA1,Pleckstrin homology domain-containing family A member 1,Q9HB21,59338,PLEKHA1,0,0,1,0,0,0,0,0,0,0
+seq.12462.20,seq_12462_20,SETMR,Histone-lysine N-methyltransferase SETMAR,Q53H47,6419,SETMAR,0,0,1,0,0,0,0,0,0,0
+seq.12478.15,seq_12478_15,RL30,60S ribosomal protein L30,P62888,6156,RPL30,0,0,0,0,0,0,0,0,1,1
+seq.12501.10,seq_12501_10,TBCA,Tubulin-specific chaperone A,O75347,6902,TBCA,0,1,1,1,1,1,1,0,1,1
+seq.12534.10,seq_12534_10,CACO2,Calcium-binding and coiled-coil domain-containing protein 2,Q13137,10241,CALCOCO2,0,0,0,0,1,0,0,0,0,1
+seq.12549.33,seq_12549_33,PTGD2,Hematopoietic prostaglandin D synthase,O60760,27306,HPGDS,1,1,1,1,1,1,1,1,1,1
+seq.12554.10,seq_12554_10,RA51D,DNA repair protein RAD51 homolog 4,O75771,5892,RAD51D,0,0,1,0,0,0,0,0,0,0
+seq.12569.25,seq_12569_25,TCP-1-epsilon,T-complex protein 1 subunit epsilon,P48643,22948,CCT5,1,0,0,0,0,0,0,0,0,0
+seq.12628.31,seq_12628_31,LANC2,LanC-like protein 2,Q9NS86,55915,LANCL2,0,1,1,1,1,0,1,1,1,0
+seq.12635.9,seq_12635_9,TRDMT,tRNA (cytosine(38)-C(5))-methyltransferase,O14717,1787,TRDMT1,0,0,0,0,0,0,0,1,0,1
+seq.12657.2,seq_12657_2,FCL,GDP-L-fucose synthase,Q13630,7264,TSTA3,0,0,1,0,0,0,0,0,0,0
+seq.12705.9,seq_12705_9,HERC1,Probable E3 ubiquitin-protein ligase HERC1,Q15751,8925,HERC1,0,0,0,1,1,0,1,1,0,1
+seq.12711.19,seq_12711_19,CXA8,Gap junction alpha-8 protein,P48165,2703,GJA8,0,1,0,0,0,0,0,0,0,0
+seq.12715.30,seq_12715_30,DCP1B,mRNA-decapping enzyme 1B,Q8IZD4,196513,DCP1B,1,1,1,1,1,1,1,1,1,1
+seq.12737.12,seq_12737_12,PLSI,Plastin-1,Q14651,5357,PLS1,0,0,1,0,0,0,0,0,0,0
+seq.12742.160,seq_12742_160,TMM8B,Transmembrane protein 8B,A6NDV4,51754,TMEM8B,1,1,1,1,1,1,1,1,1,1
+seq.12787.47,seq_12787_47,ZN134,Zinc finger protein 134,P52741,7693,ZNF134,0,0,0,0,0,1,0,0,0,0
+seq.12801.33,seq_12801_33,IRF2,Interferon regulatory factor 2,P14316,3660,IRF2,0,0,0,0,0,0,0,1,0,0
+seq.12804.5,seq_12804_5,GMEB2,Glucocorticoid modulatory element-binding protein 2,Q9UKD1,26205,GMEB2,1,0,0,0,0,0,0,0,0,0
+seq.12826.5,seq_12826_5,SC5A5,Sodium/iodide cotransporter,Q92911,6528,SLC5A5,0,0,0,0,0,0,0,1,1,0
+seq.12849.25,seq_12849_25,GSKIP,GSK3-beta interaction protein,Q9P0R6,51527,GSKIP,0,0,0,0,1,0,0,0,0,0
+seq.12854.3,seq_12854_3,TEAD3,Transcriptional enhancer factor TEF-5,Q99594,7005,TEAD3,1,1,1,1,1,1,1,1,1,1
+seq.12881.17,seq_12881_17,RDH16,Retinol dehydrogenase 16,O75452,8608,RDH16,1,1,1,1,1,1,1,1,1,1
+seq.12976.49,seq_12976_49,Vinexin b,Vinexin b,O60504,10174,SORBS3,0,0,0,1,0,0,0,0,1,0
+seq.12980.31,seq_12980_31,RBM22,Pre-mRNA-splicing factor RBM22,Q9NW64,55696,RBM22,1,1,0,0,0,0,0,0,1,1
+seq.12988.49,seq_12988_49,EWS,RNA-binding protein EWS,Q01844,2130,EWSR1,0,0,0,0,1,0,0,0,0,0
+seq.13054.87,seq_13054_87,Profilin II,Profilin-2,P35080,5217,PFN2,0,1,1,0,0,0,1,1,0,0
+seq.13102.1,seq_13102_1,FAM3D,Protein FAM3D,Q96BQ1,131177,FAM3D,0,0,0,0,0,0,0,0,0,1
+seq.13113.7,seq_13113_7,Osteopontin,Osteopontin,P10451,6696,SPP1,1,1,1,1,1,1,1,1,1,0
+seq.13118.5,seq_13118_5,SMOC1,SPARC-related modular calcium-binding protein 1,Q9H4F8,64093,SMOC1,1,1,1,1,1,1,1,1,1,1
+seq.13268.45,seq_13268_45,WNT5A,Protein Wnt-5a,P41221,7474,WNT5A,0,0,0,0,0,0,0,0,0,1
+seq.13377.3,seq_13377_3,C56D1,Cytochrome b561 domain-containing protein 1,Q8N8Q1,284613,CYB561D1,0,0,0,0,0,1,0,0,0,0
+seq.13388.57,seq_13388_57,NEC1,Neuroendocrine convertase 1,P29120,5122,PCSK1,1,1,1,1,1,1,1,1,1,1
+seq.13397.88,seq_13397_88,HBD-2,Beta-defensin 4A,O15263,100289462,DEFB4A,1,1,0,1,1,0,0,1,1,0
+seq.13416.8,seq_13416_8,T132D,Transmembrane protein 132D,Q14C87,121256,TMEM132D,0,0,0,0,0,0,1,0,0,0
+seq.13432.9,seq_13432_9,ZFY27:CD region 1,"Protrudin:Cytoplasmic domain, region 1, isoform 6",Q5T4F4,118813,ZFYVE27,0,0,1,0,0,0,0,0,0,0
+seq.13453.2,seq_13453_2,RM33,"39S ribosomal protein L33, mitochondrial",O75394,9553,MRPL33,0,1,1,0,0,1,0,0,1,1
+seq.13460.4,seq_13460_4,CHAD,Chondroadherin,O15335,1101,CHAD,0,1,1,1,0,0,1,0,0,0
+seq.13465.5,seq_13465_5,CCP1,Calcipressin-1,P53805,1827,RCAN1,0,0,0,0,0,0,0,0,1,0
+seq.13499.30,seq_13499_30,Coagulation Factor VIII,Coagulation Factor VIII,P00451,2157,F8,1,1,1,0,0,0,1,1,1,0
+seq.13563.259,seq_13563_259,ACBD7,Acyl-CoA-binding domain-containing protein 7,Q8N6N7,414149,ACBD7,0,1,0,0,0,0,0,1,1,0
+seq.13589.10,seq_13589_10,APBB3:PID 2,"Amyloid beta A4 precursor protein-binding family B member 3:Phosphotyrosine Interaction Domain 2, Isoform IV",O95704,10307,APBB3,0,0,0,0,1,0,0,0,0,0
+seq.13609.11,seq_13609_11,GTF2I,General transcription factor II-I,P78347,2969,GTF2I,0,1,1,0,0,0,0,1,0,1
+seq.13614.6,seq_13614_6,CREB-binding protein,CREB-binding protein,Q92793,1387,CREBBP,0,0,0,0,0,0,0,0,1,0
+seq.13651.54,seq_13651_54,ZFP91,E3 ubiquitin-protein ligase ZFP91,Q96JP5,80829,ZFP91,1,1,1,1,1,1,1,1,0,0
+seq.13652.2,seq_13652_2,TM1L1,TOM1-like protein 1,O75674,10040,TOM1L1,0,0,0,0,1,0,0,0,0,0
+seq.13653.335,seq_13653_335,MACD1,O-acetyl-ADP-ribose deacetylase MACROD1,Q9BQ69,28992,MACROD1,0,0,0,0,0,1,0,0,0,0
+seq.13670.81,seq_13670_81,GIIE,Group IIE secretory phospholipase A2,Q9NZK7,30814,PLA2G2E,0,0,0,1,0,0,0,0,0,0
+seq.13678.169,seq_13678_169,Factor D,Complement factor D,P00746,1675,CFD,0,0,0,0,1,0,0,0,0,0
+seq.13697.51,seq_13697_51,GPDA,"Glycerol-3-phosphate dehydrogenase [NAD(+)], cytoplasmic",P21695,2819,GPD1,1,1,1,1,1,1,1,1,1,1
+seq.13707.27,seq_13707_27,SPARCL1,SPARC-like protein 1,Q14515,8404,SPARCL1,0,0,0,1,0,0,0,0,0,0
+seq.13732.79,seq_13732_79,Cardiotrophin-1,Cardiotrophin-1,Q16619,1489,CTF1,0,0,0,0,1,0,1,1,0,0
+seq.13741.36,seq_13741_36,IGFBP-1,Insulin-like growth factor-binding protein 1,P08833,3484,IGFBP1,0,0,1,0,0,0,1,0,0,0
+seq.13933.276,seq_13933_276,NAB1,NGFI-A-binding protein 1,Q13506,4664,NAB1,0,0,0,0,0,1,0,0,0,0
+seq.14023.84,seq_14023_84,BSP,Bone sialoprotein 2,P21815,3381,IBSP,1,0,0,0,0,0,1,0,0,0
+seq.14032.2,seq_14032_2,VEGF121,"Vascular endothelial growth factor A, isoform 121",P15692,7422,VEGFA,0,0,0,0,1,1,0,0,0,0
+seq.14042.11,seq_14042_11,SARP-2,Secreted frizzled-related protein 1,Q8N474,6422,SFRP1,1,1,0,1,1,0,1,1,1,0
+seq.14073.31,seq_14073_31,Hemopexin,Hemopexin,P02790,3263,HPX,1,0,0,0,0,0,0,0,0,0
+seq.14077.6,seq_14077_6,Ficolin-3,Ficolin-3,O75636,8547,FCN3,0,0,0,1,0,0,0,0,0,0
+seq.14085.28,seq_14085_28,IL-13,Interleukin-13,P35225,3596,IL13,0,0,0,0,0,0,0,1,0,0
+seq.14086.11,seq_14086_11,ASM3A,Acid sphingomyelinase-like phosphodiesterase 3a,Q92484,10924,SMPDL3A,1,0,0,0,0,0,0,0,0,1
+seq.14091.42,seq_14091_42,Carbonyl reductase 3,Carbonyl reductase [NADPH] 3,O75828,874,CBR3,0,0,0,0,0,0,0,0,1,0
+seq.14100.63,seq_14100_63,C1QC,Complement C1q subcomponent subunit C,P02747,714,C1QC,0,0,0,1,0,1,0,0,0,0
+seq.14101.2,seq_14101_2,CNTFR alpha,Ciliary neurotrophic factor receptor subunit alpha,P26992,1271,CNTFR,1,0,0,0,0,0,0,0,1,0
+seq.14114.18,seq_14114_18,PIANP,PILR alpha-associated neural protein,Q8IYJ0,196500,PIANP,1,1,1,1,1,1,1,1,1,1
+seq.14127.240,seq_14127_240,IFN-b,Interferon beta,P01574,3456,IFNB1,1,0,0,0,0,0,1,0,0,1
+seq.14128.121,seq_14128_121,IFN10,Interferon alpha-10,P01566,3446,IFNA10,0,0,1,0,1,1,0,0,0,0
+seq.14133.93,seq_14133_93,IL-1 sRII,Interleukin-1 receptor type 2,P27930,7850,IL1R2,0,0,0,1,0,0,0,0,0,0
+seq.14136.234,seq_14136_234,C1QR1,Complement component C1q receptor,Q9NPY3,22918,CD93,0,1,1,1,1,1,1,0,1,1
+seq.14148.2,seq_14148_2,UCRP,Ubiquitin-like protein ISG15,P05161,9636,ISG15,0,0,0,1,0,0,0,0,0,0
+seq.14153.8,seq_14153_8,Ephrin-A3,Ephrin-A3,P52797,1944,EFNA3,0,0,1,1,1,0,0,0,0,0
+seq.14227.21,seq_14227_21,MYL6B,Myosin light chain 6B,P14649,140465,MYL6B,0,1,1,1,0,0,1,1,0,0
+seq.14250.115,seq_14250_115,BLMH,Bleomycin hydrolase,Q13867,642,BLMH,0,0,0,1,1,1,0,0,0,1
+seq.14254.27,seq_14254_27,PTN4,Tyrosine-protein phosphatase non-receptor type 4,P29074,5775,PTPN4,0,1,0,0,0,0,0,0,1,0
+seq.14309.8,seq_14309_8,HNRH1,Heterogeneous nuclear ribonucleoprotein H,P31943,3187,HNRNPH1,0,0,0,0,0,1,1,0,0,0
+seq.14318.1,seq_14318_1,VPS29,Vacuolar protein sorting-associated protein 29,Q9UBQ0,51699,VPS29,0,0,0,1,1,0,0,0,0,0
+seq.14337.1,seq_14337_1,TPPC3,Trafficking protein particle complex subunit 3,O43617,27095,TRAPPC3,0,0,0,0,0,0,1,0,0,1
+seq.14616.16,seq_14616_16,ZN382,Zinc finger protein 382,Q96SR6,84911,ZNF382,1,0,1,1,1,1,1,1,1,0
+seq.14631.22,seq_14631_22,DUS16,Dual specificity protein phosphatase 16,Q9BY84,80824,DUSP16,0,0,0,0,0,1,0,0,0,0
+seq.15304.1,seq_15304_1,PAP1,Regenerating islet-derived protein 3-alpha,Q06141,5068,REG3A,0,1,0,0,0,0,0,0,0,0
+seq.15321.8,seq_15321_8,CPLX2,Complexin-2,Q6PUV4,10814,CPLX2,1,1,1,1,1,1,1,1,1,1
+seq.15339.32,seq_15339_32,COF2,Cofilin-2,Q9Y281,1073,CFL2,0,0,1,0,0,0,0,0,0,0
+seq.15343.337,seq_15343_337,"Kininogen, HMW, Two Chain","Kininogen, HMW, Two Chain",P01042,3827,KNG1,0,0,0,1,0,0,0,0,0,0
+seq.15363.32,seq_15363_32,Apo A-V,Apolipoprotein A-V,Q6Q788,116519,APOA5,0,0,0,0,0,0,0,0,0,1
+seq.15386.7,seq_15386_7,FABPA,"Fatty acid-binding protein, adipocyte",P15090,2167,FABP4,0,0,0,1,0,0,1,0,0,0
+seq.15388.24,seq_15388_24,FcRIIIa,Low affinity immunoglobulin gamma Fc region receptor III-A,P08637,2214,FCGR3A,0,0,0,0,0,1,0,0,0,0
+seq.15402.2,seq_15402_2,ID-1,DNA-binding protein inhibitor ID-1,P41134,3397,ID1,0,0,1,1,0,0,0,0,0,0
+seq.15447.45,seq_15447_45,Sorbitol dehydrogenase,Sorbitol dehydrogenase,Q00796,6652,SORD,0,0,0,0,0,0,1,0,0,0
+seq.15457.14,seq_15457_14,Aminopeptidase N,Aminopeptidase N,P15144,290,ANPEP,0,0,1,0,1,0,0,0,0,1
+seq.15470.11,seq_15470_11,Hexosaminidase B,Beta-hexosaminidase subunit beta,P07686,3074,HEXB,0,0,0,0,0,1,0,0,0,0
+seq.15475.4,seq_15475_4,PLTP,Phospholipid transfer protein,P55058,5360,PLTP,0,0,0,1,0,1,1,0,1,0
+seq.15481.45,seq_15481_45,LL-37,Antibacterial protein LL-37,P49913,820,CAMP,0,0,0,0,0,0,0,0,1,0
+seq.15486.126,seq_15486_126,ABP1,Amiloride-sensitive amine oxidase [copper-containing],P19801,26,AOC1,0,0,0,1,0,0,0,0,0,0
+seq.15495.9,seq_15495_9,FOLR3,Folate receptor gamma,P41439,2352,FOLR3,0,0,0,0,0,0,0,0,0,1
+seq.15503.20,seq_15503_20,Lefty-A,Left-right determination factor 2,O00292,7044,LEFTY2,0,0,1,0,0,1,1,0,1,0
+seq.15511.37,seq_15511_37,NPTXR,Neuronal pentraxin receptor,O95502,23467,NPTXR,1,1,1,1,1,1,1,1,1,1
+seq.15521.4,seq_15521_4,Alcadein alpha-1,Calsyntenin-1,O94985,22883,CLSTN1,0,1,0,0,0,0,0,0,0,0
+seq.15522.2,seq_15522_2,GAPR1,Golgi-associated plant pathogenesis-related protein 1,Q9H4G4,152007,GLIPR2,0,0,1,1,1,1,1,0,1,1
+seq.15529.33,seq_15529_33,Cysteine-rich protein 1,Cysteine and glycine-rich protein 1,P21291,1465,CSRP1,0,0,0,0,1,0,0,0,0,0
+seq.15539.15,seq_15539_15,SLIK1,SLIT and NTRK-like protein 1,Q96PX8,114798,SLITRK1,1,1,1,1,1,1,1,1,1,1
+seq.15559.5,seq_15559_5,ANTR2,Anthrax toxin receptor 2,P58335,118429,ANTXR2,0,1,1,1,1,1,1,0,0,0
+seq.15569.15,seq_15569_15,Collagen II,Collagen Type II,P02458,1280,COL2A1,0,0,0,0,0,0,0,1,0,0
+seq.15570.99,seq_15570_99,Complement receptor type 2,Complement receptor type 2,P20023,1380,CR2,0,0,1,0,0,0,0,0,0,0
+seq.15573.110,seq_15573_110,CSPG3,Neurocan core protein,O14594,1463,NCAN,1,1,0,1,0,0,1,1,0,1
+seq.15594.47,seq_15594_47,HTRA1,Serine protease HTRA1,Q92743,5654,HTRA1,1,0,0,0,0,0,0,0,0,0
+seq.15602.43,seq_15602_43,IL-6 sRa,Interleukin-6 receptor subunit alpha,P08887,3570,IL6R,0,0,0,0,0,1,0,0,0,0
+seq.15626.223,seq_15626_223,Perlecan,Basement membrane-specific heparan sulfate proteoglycan core protein,P98160,3339,HSPG2,0,0,0,0,1,1,0,0,0,0
+seq.15640.54,seq_15640_54,TAGL,Transgelin,Q01995,6876,TAGLN,0,0,0,1,0,0,0,0,0,0
+seq.15653.9,seq_15653_9,COAA1,Collagen alpha-1(X) chain,Q03692,1300,COL10A1,0,0,0,0,0,0,0,1,1,0
+seq.16057.6,seq_16057_6,IGF-II receptor,Cation-independent mannose-6-phosphate receptor,P11717,3482,IGF2R,0,0,1,1,1,1,1,1,1,1
+seq.16292.288,seq_16292_288,GIP,Gastric inhibitory polypeptide,P09681,2695,GIP,0,0,0,0,0,0,0,1,1,0
+seq.16304.6,seq_16304_6,LGR4,Leucine-rich repeat-containing G-protein coupled receptor 4,Q9BXB1,55366,LGR4,1,0,0,0,0,0,0,0,0,0
+seq.16315.105,seq_16315_105,VEGF sR1,Vascular endothelial growth factor receptor 1,P17948,2321,FLT1,1,0,0,1,0,1,1,1,1,1
+seq.16614.27,seq_16614_27,RSPO1,R-spondin-1,Q2MKA7,284654,RSPO1,0,1,1,0,0,0,0,1,0,0
+seq.16763.11,seq_16763_11,LECT2,Leukocyte cell-derived chemotaxin-2,O14960,3950,LECT2,0,0,1,0,0,0,0,0,0,0
+seq.16810.3,seq_16810_3,RhoGDI,Rab GDP dissociation inhibitor alpha,P31150,2664,GDI1,0,0,0,0,1,0,0,0,0,0
+seq.16818.200,seq_16818_200,CDCP1,CUB domain-containing protein 1,Q9H5V8,64866,CDCP1,0,0,1,1,1,1,1,1,0,0
+seq.16859.100,seq_16859_100,SHLB1,Endophilin-B1,Q9Y371,51100,SH3GLB1,0,1,0,0,0,0,0,0,0,0
+seq.16892.23,seq_16892_23,ENPP2,Ectonucleotide pyrophosphatase/phosphodiesterase family member 2,Q13822,5168,ENPP2,0,0,1,0,0,1,0,0,0,0
+seq.16908.5,seq_16908_5,OMGP,Oligodendrocyte-myelin glycoprotein,P23515,4974,OMG,1,1,0,1,0,1,1,1,1,1
+seq.16926.44,seq_16926_44,"Alkaline phosphatase, liver","Alkaline phosphatase, tissue-nonspecific isozyme",P05186,249,ALPL,0,1,1,0,0,1,0,1,0,0
+seq.17145.1,seq_17145_1,S100A8/S100A9,Protein S100-A8/A9 heterodimer,P05109|P06702,6279|6280,S100A8|S100A9,1,1,0,1,0,0,1,1,0,1
+seq.17170.15,seq_17170_15,CALCB,Calcitonin gene-related peptide 2,P10092,797,CALCB,1,1,1,0,1,1,1,1,1,1
+seq.17199.43,seq_17199_43,HIF1N,Hypoxia-inducible factor 1-alpha inhibitor,Q9NWT6,55662,HIF1AN,0,0,0,1,0,1,0,1,0,1
+seq.17337.1,seq_17337_1,TYY1,Transcriptional repressor protein YY1,P25490,7528,YY1,0,0,0,1,0,1,0,0,0,0
+seq.17344.23,seq_17344_23,STML1,Stomatin-like protein 1,Q9UBI4,9399,STOML1,0,1,1,0,1,0,0,0,0,0
+seq.17346.61,seq_17346_61,FDSCP,Follicular dendritic cell secreted peptide,Q8NFU4,260436,FDCSP,0,0,0,1,0,0,1,0,0,0
+seq.17377.1,seq_17377_1,Aldose reductase-like C3,Aldo-keto reductase family 1 member C3,P42330,8644,AKR1C3,0,0,1,0,0,0,0,0,0,0
+seq.17404.5,seq_17404_5,ARL5B,ADP-ribosylation factor-like protein 5B,Q96KC2,221079,ARL5B,0,0,0,1,0,0,0,0,0,0
+seq.17408.2,seq_17408_2,PMM1,Phosphomannomutase 1,Q92871,5372,PMM1,0,0,0,0,0,0,0,0,0,1
+seq.17419.17,seq_17419_17,TES,Testin,Q9UGI8,26136,TES,0,1,1,1,0,1,0,1,0,0
+seq.17441.4,seq_17441_4,"Alkaline phosphatase, intestine",Intestinal-type alkaline phosphatase,P09923,248,ALPI,0,0,0,0,0,0,1,0,0,0
+seq.17447.52,seq_17447_52,SFRP4,Secreted frizzled-related protein 4,Q6FHJ7,6424,SFRP4,1,1,1,1,1,1,1,1,1,1
+seq.17495.141,seq_17495_141,SIR3,"NAD-dependent protein deacetylase sirtuin-3, mitochondrial",Q9NTG7,23410,SIRT3,1,0,0,0,0,0,0,0,0,0
+seq.17672.184,seq_17672_184,Gastric intrinsic factor,Gastric intrinsic factor,P27352,2694,CBLIF,0,0,0,0,0,1,0,0,0,1
+seq.17706.4,seq_17706_4,PPR1A,Protein phosphatase 1 regulatory subunit 1A,Q13522,5502,PPP1R1A,0,0,0,1,1,1,0,1,1,0
+seq.17738.7,seq_17738_7,CRNN,Cornulin,Q9UBG3,49860,CRNN,0,0,1,1,0,0,1,1,0,0
+seq.17761.2,seq_17761_2,NUDT5,ADP-sugar pyrophosphatase,Q9UKK9,11164,NUDT5,1,1,0,0,0,0,0,0,0,0
+seq.17775.8,seq_17775_8,TAGL3,Transgelin-3,Q9UI15,29114,TAGLN3,0,0,0,0,0,1,0,0,1,0
+seq.17777.31,seq_17777_31,SDSL,Serine dehydratase-like,Q96GA7,113675,SDSL,1,0,1,1,1,0,1,1,1,1
+seq.17782.23,seq_17782_23,THIK,"3-ketoacyl-CoA thiolase, peroxisomal",P09110,30,ACAA1,0,0,0,0,1,0,0,0,0,0
+seq.17796.15,seq_17796_15,IMPA1,Inositol monophosphatase 1,P29218,3612,IMPA1,1,0,0,0,0,0,0,0,0,0
+seq.18156.7,seq_18156_7,ATG3,Ubiquitin-like-conjugating enzyme ATG3,Q9NT62,64422,ATG3,0,0,1,0,0,0,0,0,0,0
+seq.18166.4,seq_18166_4,RHOB,Rho-related GTP-binding protein RhoB,P62745,388,RHOB,0,0,0,1,0,0,0,0,0,1
+seq.18175.65,seq_18175_65,VAT1,Synaptic vesicle membrane protein VAT-1 homolog,Q99536,10493,VAT1,1,1,1,1,1,1,1,1,1,1
+seq.18179.56,seq_18179_56,SPSY,Spermine synthase,P52788,6611,SMS,0,0,1,1,0,0,1,0,0,0
+seq.18185.118,seq_18185_118,ALDOB,Fructose-bisphosphate aldolase B,P05062,229,ALDOB,0,0,0,0,0,0,0,0,1,0
+seq.18308.30,seq_18308_30,STXB6,Syntaxin-binding protein 6,Q8NFX7,29091,STXBP6,1,1,1,1,0,1,1,0,1,0
+seq.18310.26,seq_18310_26,SELW,Selenoprotein W,P63302,6415,SELENOW,1,1,1,0,0,0,1,0,0,1
+seq.18332.17,seq_18332_17,CPLX1,Complexin-1,O14810,10815,CPLX1,1,0,1,1,1,1,1,1,1,1
+seq.18337.4,seq_18337_4,GMDS,"GDP-mannose 4,6 dehydratase",O60547,2762,GMDS,0,0,0,1,0,0,0,0,0,0
+seq.18376.19,seq_18376_19,Myosin light chain 1,Myosin light chain 3,P08590,4634,MYL3,1,0,0,0,0,0,0,0,0,0
+seq.18380.78,seq_18380_78,Albumin,Serum albumin,P02768,213,ALB,1,0,0,0,1,0,0,0,0,0
+seq.18382.109,seq_18382_109,Catechol O-methyltransferase,Catechol O-methyltransferase,P21964,1312,COMT,0,1,0,0,0,0,0,0,0,1
+seq.18395.5,seq_18395_5,ADPRH,[Protein ADP-ribosylarginine] hydrolase,P54922,141,ADPRH,0,0,1,0,0,0,0,0,0,0
+seq.18396.10,seq_18396_10,AES,Amino-terminal enhancer of split,Q08117,166,TLE5,0,1,0,0,1,1,1,1,1,1
+seq.18821.9,seq_18821_9,C4a,C4a anaphylatoxin,P0C0L4|P0C0L5,720|100293534,C4A|C4B,1,1,1,1,0,1,0,0,1,1
+seq.18824.7,seq_18824_7,IF4A2,Eukaryotic initiation factor 4A-II,Q14240,1974,EIF4A2,0,0,0,1,0,0,0,0,0,0
+seq.18859.7,seq_18859_7,4EBP3,Eukaryotic translation initiation factor 4E-binding protein 3,O60516,8637,EIF4EBP3,0,1,1,1,0,1,1,0,1,1
+seq.18860.2,seq_18860_2,CaMKK alpha,Calcium/calmodulin-dependent protein kinase kinase 1,Q8N5S9,84254,CAMKK1,0,0,0,0,0,1,0,0,0,0
+seq.18864.7,seq_18864_7,TRY3,Trypsin-3,P35030,5646,PRSS3,0,0,0,1,0,0,0,0,0,0
+seq.18880.81,seq_18880_81,Collagen Type III,Collagen Type III,P02461,1281,COL3A1,1,1,1,1,1,0,0,1,1,1
+seq.18896.23,seq_18896_23,H6ST3,Heparan-sulfate 6-O-sulfotransferase 3,Q8IZP7,266722,HS6ST3,1,1,1,1,1,1,1,1,0,1
+seq.18930.28,seq_18930_28,SLIT2,Slit homolog 2 protein,O94813,9353,SLIT2,1,0,0,1,1,0,1,0,0,1
+seq.19135.5,seq_19135_5,Cytosolic 5'-nucleotidase III-like protein,7-methylguanosine phosphate-specific 5'-nucleotidase,Q969T7,115024,NT5C3B,0,0,1,0,0,0,0,0,0,0
+seq.19141.22,seq_19141_22,DAP1,Death-associated protein 1,P51397,1611,DAP,0,0,0,0,0,0,0,0,0,1
+seq.19174.141,seq_19174_141,GOGA7,Golgin subfamily A member 7,Q7Z5G4,51125,GOLGA7,0,0,1,0,0,0,0,0,0,0
+seq.19252.67,seq_19252_67,PSB2,Proteasome subunit beta type-2,P49721,5690,PSMB2,0,1,0,0,0,0,0,0,0,0
+seq.19270.26,seq_19270_26,SYYC,"Tyrosine--tRNA ligase, cytoplasmic",P54577,8565,YARS1,1,1,1,1,1,1,1,1,1,1
+seq.19323.1,seq_19323_1,RCAS1,Receptor-binding cancer antigen expressed on SiSo cells,O00559,9166,EBAG9,1,1,0,0,1,0,0,0,0,0
+seq.19347.37,seq_19347_37,Carbonic Anhydrase XII,Carbonic anhydrase 12,O43570,771,CA12,0,0,0,1,0,1,1,1,0,0
+seq.19369.17,seq_19369_17,GCNL2,Histone acetyltransferase KAT2A,Q92830,2648,KAT2A,0,0,0,0,0,0,0,0,1,0
+seq.19372.7,seq_19372_7,MDGA2,MAM domain-containing glycosylphosphatidylinositol anchor protein 2,Q7Z553,161357,MDGA2,0,0,0,1,0,0,0,0,0,0
+seq.19381.7,seq_19381_7,RGS21,Regulator of G-protein signaling 21,Q2M5E4,431704,RGS21,0,0,0,0,0,0,0,1,0,0
+seq.19448.104,seq_19448_104,UPP1,Uridine phosphorylase 1,Q16831,7378,UPP1,0,0,0,0,0,0,0,0,0,1
+seq.19482.11,seq_19482_11,HDHD3,Haloacid dehalogenase-like hydrolase domain-containing protein 3,Q9BSH5,81932,HDHD3,1,1,1,1,0,0,0,0,0,1
+seq.19553.14,seq_19553_14,STX1a,Syntaxin-1A,Q16623,6804,STX1A,1,1,1,1,1,1,1,1,1,1
+seq.19557.3,seq_19557_3,KLOTB,Beta-klotho,Q86Z14,152831,KLB,1,0,0,1,0,0,0,0,1,0
+seq.19563.3,seq_19563_3,SEZ6L,Seizure 6-like protein,Q9BYH1,23544,SEZ6L,0,1,1,1,1,1,0,1,0,0
+seq.19567.1,seq_19567_1,EGFRvIII,Epidermal growth factor receptor variant III,P00533,1956,EGFR,0,0,0,1,0,0,0,0,0,0
+seq.19590.46,seq_19590_46,SP-D,Pulmonary surfactant-associated protein D,P35247,6441,SFTPD,1,1,0,0,0,1,1,0,0,0
+seq.19606.28,seq_19606_28,ihh,Indian hedgehog protein,Q14623,3549,IHH,1,1,1,1,1,1,1,1,1,1
+seq.19613.16,seq_19613_16,RDH10,Retinol dehydrogenase 10,Q8IZV5,157506,RDH10,0,0,1,0,0,0,0,0,0,0
+seq.19614.8,seq_19614_8,Holo-TC I,Transcobalamin-1,P20061,6947,TCN1,0,1,0,1,1,0,0,0,1,1
+seq.19639.53,seq_19639_53,IAPP,Islet amyloid polypeptide,P10997,3375,IAPP,0,0,0,0,0,1,1,0,0,0
+seq.20087.3,seq_20087_3,selenoprotein15,15 kDa selenoprotein,O60613,9403,SELENOF,0,0,0,0,0,0,1,0,0,0
+seq.20091.138,seq_20091_138,Ephrin-A1,Ephrin-A1,P20827,1942,EFNA1,0,0,0,0,0,0,0,0,1,0
+seq.20161.41,seq_20161_41,NCAM1,Neural cell adhesion molecule 1,P13591,4684,NCAM1,0,0,0,0,0,1,0,0,0,0
+seq.20187.10,seq_20187_10,Integrin aVb3,Integrin alpha V beta 3,P06756|P05106,3685|3690,ITGAV|ITGB3,0,1,1,1,1,1,1,1,1,1
+seq.20237.38,seq_20237_38,OAT,"Ornithine aminotransferase, mitochondrial",P04181,4942,OAT,1,1,0,0,0,0,0,1,1,0
+seq.20388.8,seq_20388_8,TSR2,Pre-rRNA-processing protein TSR2 homolog,Q969E8,90121,TSR2,0,0,0,0,0,0,0,0,1,0
+seq.20390.4,seq_20390_4,HMGN3,High mobility group nucleosome-binding domain-containing protein 3,Q15651,9324,HMGN3,0,0,0,0,0,1,0,0,1,1
+seq.20423.40,seq_20423_40,CIB1,Calcium and integrin-binding protein 1,Q99828,10519,CIB1,0,0,0,0,0,0,0,0,1,0
+seq.20444.12,seq_20444_12,TPPP3,Tubulin polymerization-promoting protein family member 3,Q9BW30,51673,TPPP3,0,0,0,1,0,0,0,0,0,0
+seq.20512.2,seq_20512_2,MUC18,Melanoma-associated antigen MUC18,P43121,4162,MCAM,0,1,1,0,0,0,0,1,1,0
+seq.20514.8,seq_20514_8,BAMBI:ECD,BMP and activin membrane-bound inhibitor homolog:Extracellular domain,Q13145,25805,BAMBI,0,0,0,0,0,0,0,0,1,1
+seq.20520.14,seq_20520_14,FAM3C,Protein FAM3C,Q92520,10447,FAM3C,0,0,0,0,0,0,1,1,0,0
+seq.20540.65,seq_20540_65,SEM4G,Semaphorin-4G,Q9NTN9,57715,SEMA4G,0,0,0,0,0,0,0,0,1,0
+seq.20541.73,seq_20541_73,CD1B,T-cell surface glycoprotein CD1b,P29016,910,CD1B,0,0,0,0,0,0,0,0,1,0
+seq.20546.71,seq_20546_71,R4RL1,Reticulon-4 receptor-like 1,Q86UN2,146760,RTN4RL1,0,0,0,0,0,0,1,0,0,0
+seq.20564.53,seq_20564_53,THY1,Thy-1 membrane glycoprotein,P04216,7070,THY1,0,0,0,1,1,1,1,1,1,1
+seq.20574.8,seq_20574_8,CD81,CD81 antigen,P60033,975,CD81,1,0,1,0,1,0,0,0,0,1
+seq.20575.82,seq_20575_82,CLC9A,C-type lectin domain family 9 member A,Q6UXN8,283420,CLEC9A,0,0,0,0,1,0,0,0,0,0
+seq.20591.48,seq_20591_48,GLDN,Gliomedin,Q6ZMI3,342035,GLDN,0,0,0,1,0,0,1,0,0,1
+seq.20922.4,seq_20922_4,PROF4,Profilin-4,Q8NHR9,375189,PFN4,1,1,1,1,1,0,1,1,1,0
+seq.20931.156,seq_20931_156,AUHM,"Methylglutaconyl-CoA hydratase, mitochondrial",Q13825,549,AUH,0,1,0,0,1,0,0,0,0,0
+seq.20994.37,seq_20994_37,PKHF2,Pleckstrin homology domain-containing family F member 2,Q9H8W4,79666,PLEKHF2,0,0,0,0,0,0,0,0,1,0
+seq.21112.6,seq_21112_6,MLRS,"Myosin regulatory light chain 2, skeletal muscle isoform",Q96A32,29895,MYLPF,1,0,1,0,0,0,1,1,0,0
+seq.21143.10,seq_21143_10,Calcyphosin,Calcyphosin,Q13938,828,CAPS,0,0,0,0,0,0,0,1,0,0
+seq.21144.160,seq_21144_160,SGK1,Serine/threonine-protein kinase Sgk1,O00141,6446,SGK1,0,1,0,0,0,0,0,0,0,0
+seq.21153.5,seq_21153_5,BAP18,Chromatin complexes subunit BAP18,Q8IXM2,124944,BAP18,0,0,1,1,0,0,0,1,0,0
+seq.21237.24,seq_21237_24,PADI4,Protein-arginine deiminase type-4,Q9UM07,23569,PADI4,0,0,0,1,0,0,0,0,0,0
+seq.21306.7,seq_21306_7,HAUS1,HAUS augmin-like complex subunit 1,Q96CS2,115106,HAUS1,1,0,1,0,0,0,0,0,0,0
+seq.21342.25,seq_21342_25,RGS14,Regulator of G-protein signaling 14,O43566,10636,RGS14,0,0,0,0,0,1,1,0,0,0
+seq.21348.22,seq_21348_22,TRPT1,tRNA 2'-phosphotransferase 1,Q86TN4,83707,TRPT1,0,0,1,0,0,0,0,0,0,0
+seq.21390.68,seq_21390_68,L-dopachrome tautomerase,L-dopachrome tautomerase,P40126,1638,DCT,0,0,0,0,0,1,0,0,0,0
+seq.21429.50,seq_21429_50,THOP1,Thimet oligopeptidase,P52888,7064,THOP1,0,0,0,0,0,1,0,0,0,0
+seq.21477.105,seq_21477_105,MAEA,Macrophage erythroblast attacher,Q7L5Y9,10296,MAEA,1,1,1,1,1,1,1,1,1,1
+seq.21491.7,seq_21491_7,VAP-1,Vascular adhesion protein-1,Q16853,8639,AOC3,0,0,1,0,0,0,1,0,0,0
+seq.21497.32,seq_21497_32,HYOU1,Hypoxia up-regulated protein 1,Q9Y4L1,10525,HYOU1,0,0,0,0,1,0,0,0,0,0
+seq.21501.30,seq_21501_30,FPPS,Farnesyl pyrophosphate synthetase,P14324,2224,FDPS,0,0,0,0,0,1,0,0,0,0
+seq.21503.12,seq_21503_12,TSHR,Thyrotropin receptor,P16473,7253,TSHR,1,1,0,1,0,1,1,0,1,1
+seq.21533.51,seq_21533_51,LSP1,Lymphocyte-specific protein 1,P33241,4046,LSP1,0,1,1,0,0,0,0,0,0,0
+seq.21647.9,seq_21647_9,SPEE,Spermidine synthase,P19623,6723,SRM,1,1,1,1,1,1,1,1,1,1
+seq.21662.121,seq_21662_121,DYRK3,Dual specificity tyrosine-phosphorylation-regulated kinase 3,O43781,8444,DYRK3,0,1,0,0,0,0,0,0,0,0
+seq.21698.11,seq_21698_11,Integrin a11b1,Integrin a11b1,Q9UKX5|P05556,22801|3688,ITGA11|ITGB1,0,0,0,0,0,0,1,0,0,0
+seq.21707.15,seq_21707_15,C1QL3,Complement C1q-like protein 3,Q5VWW1,389941,C1QL3,1,1,1,0,0,1,0,1,1,1
+seq.21711.86,seq_21711_86,BAI1,Brain-specific angiogenesis inhibitor 1,O14514,575,ADGRB1,0,0,0,1,0,0,0,0,0,0
+seq.21722.21,seq_21722_21,GALT4,Polypeptide N-acetylgalactosaminyltransferase 4,Q8N4A0,100528030,GALNT4,0,0,0,1,0,0,0,0,0,0
+seq.21740.26,seq_21740_26,UBP1,Ubiquitin carboxyl-terminal hydrolase 1,O94782,7398,USP1,0,0,0,0,1,0,0,0,0,0
+seq.21769.10,seq_21769_10,XYLB,Xylulose kinase,O75191,9942,XYLB,0,0,0,0,0,1,1,0,0,0
+seq.21770.18,seq_21770_18,B3GA1,Galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase 1,Q9P2W7,27087,B3GAT1,1,0,0,0,0,0,0,0,0,0
+seq.21899.36,seq_21899_36,inhibin A,inhibin A,P05111|P08476,3623|3624,INHA|INHBA,1,0,0,1,1,1,0,0,0,1
+seq.21909.10,seq_21909_10,Integrin a5b1,Integrin a5b1,P08648|P05556,3678|3688,ITGA5|ITGB1,0,0,1,0,0,0,0,0,0,1
+seq.21925.15,seq_21925_15,TGF-b1,Transforming growth factor beta-1,P01137,7040,TGFB1,0,1,1,1,1,1,1,1,1,0
+seq.21926.24,seq_21926_24,UB2D1/ PolyUbiquitin K48,UB2D1/PolyUbiquitin K48,P51668|P0CG47,7321|7314,UBE2D1|UBB,0,0,1,1,0,1,1,0,0,0
+seq.21929.53,seq_21929_53,UB2D3/ PolyUbiquitin K48,UB2D3/PolyUbiquitin K48,P61077|P0CG47,7323|7314,UBE2D3|UBB,1,0,0,1,0,1,0,0,0,0
+seq.21951.32,seq_21951_32,ARNT,Aryl hydrocarbon receptor nuclear translocator,P27540,405,ARNT,0,0,1,0,0,0,0,0,0,0
+seq.22015.2,seq_22015_2,RO52,E3 ubiquitin-protein ligase TRIM21,P19474,6737,TRIM21,0,0,0,1,1,0,0,0,0,0
+seq.22033.7,seq_22033_7,WASP,Wiskott-Aldrich syndrome protein,P42768,7454,WAS,0,0,0,0,0,1,0,0,0,0
+seq.22059.56,seq_22059_56,PALMD,Palmdelphin,Q9NP74,54873,PALMD,0,0,0,0,1,0,0,0,0,0
+seq.22073.47,seq_22073_47,AT5F1,"ATP synthase B chain, mitochondrial",P24539,515,ATP5PB,1,1,1,1,0,0,1,1,0,1
+seq.22103.25,seq_22103_25,CDK20,Cyclin-dependent kinase 20,Q8IZL9,23552,CDK20,0,0,0,1,0,0,0,0,0,0
+seq.22121.43,seq_22121_43,DCA12,DDB1- and CUL4-associated factor 12,Q5T6F0,25853,DCAF12,0,0,1,1,1,0,0,0,0,0
+seq.22124.94,seq_22124_94,DYTN,Dystrotelin,A2CJ06,391475,DYTN,0,0,0,0,0,0,0,0,1,0
+seq.2212.69,seq_2212_69,tPA,Tissue-type plasminogen activator,P00750,5327,PLAT,1,0,1,1,1,1,1,1,0,0
+seq.22141.59,seq_22141_59,F261,"6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 1",P16118,5207,PFKFB1,1,0,0,1,0,0,0,0,0,0
+seq.22374.56,seq_22374_56,HEY1,Hairy/enhancer-of-split related with YRPW motif protein 1,Q9Y5J3,23462,HEY1,1,1,1,1,1,1,1,1,1,1
+seq.22527.4,seq_22527_4,PDLI3,PDZ and LIM domain protein 3,Q53GG5,27295,PDLIM3,1,1,1,1,1,1,1,1,1,1
+seq.22528.1,seq_22528_1,PHF11,PHD finger protein 11,Q9UIL8,51131,PHF11,1,1,1,1,0,0,0,0,0,0
+seq.22576.1,seq_22576_1,DC-SIGN,CD209 antigen,Q9NNX6,30835,CD209,0,0,0,1,0,0,0,0,0,0
+seq.22782.80,seq_22782_80,SPC25,Kinetochore protein Spc25,Q9HBM1,57405,SPC25,1,1,1,1,1,1,1,1,1,1
+seq.22797.20,seq_22797_20,TAF12,Transcription initiation factor TFIID subunit 12,Q16514,6883,TAF12,0,0,1,0,0,0,0,0,0,0
+seq.23020.18,seq_23020_18,RGS4,Regulator of G-protein signaling 4,P49798,5999,RGS4,0,0,0,1,0,0,0,0,0,0
+seq.23029.3,seq_23029_3,SH3G3,Endophilin-A3,Q99963,6457,SH3GL3,0,1,0,0,0,0,0,0,0,0
+seq.23161.3,seq_23161_3,KCTD6,BTB/POZ domain-containing protein KCTD6,Q8NC69,200845,KCTD6,0,0,0,0,0,1,1,1,0,1
+seq.23226.42,seq_23226_42,AT5F1,"ATP synthase B chain, mitochondrial",P24539,515,ATP5PB,0,0,0,0,0,1,0,0,0,0
+seq.23268.15,seq_23268_15,FRG1,Protein FRG1,Q14331,2483,FRG1,0,0,0,1,1,1,0,0,0,0
+seq.2330.2,seq_2330_2,SDF-1,Stromal cell-derived factor 1,P48061,6387,CXCL12,0,0,0,0,0,0,0,1,0,0
+seq.23323.25,seq_23323_25,DUPD1,Dual specificity phosphatase DUPD1,Q68J44,338599,DUPD1,0,0,0,0,0,1,1,1,0,1
+seq.23327.1,seq_23327_1,BORC5,BLOC-1-related complex subunit 5,Q969J3,118426,BORCS5,1,0,1,1,0,0,0,0,0,1
+seq.23343.6,seq_23343_6,ROGDI,Protein rogdi homolog,Q9GZN7,79641,ROGDI,0,0,0,0,0,0,0,0,1,0
+seq.23349.5,seq_23349_5,PCY1A,Choline-phosphate cytidylyltransferase A,P49585,5130,PCYT1A,0,1,0,0,0,1,1,1,0,1
+seq.23352.9,seq_23352_9,DTBP1,Dysbindin,Q96EV8,84062,DTNBP1,0,0,0,0,0,0,1,0,0,0
+seq.23354.12,seq_23354_12,CRBA2,Beta-crystallin A2,P53672,1412,CRYBA2,0,0,0,1,0,0,0,0,0,0
+seq.23358.42,seq_23358_42,F118A,Protein FAM118A,Q9NWS6,55007,FAM118A,0,0,0,1,0,0,0,1,0,0
+seq.23359.25,seq_23359_25,FL2D,Pre-mRNA-splicing regulator WTAP,Q15007,9589,WTAP,0,0,0,0,1,0,0,0,0,0
+seq.23371.5,seq_23371_5,NIF3L,NIF3-like protein 1,Q9GZT8,60491,NIF3L1,1,1,1,1,0,1,1,1,1,0
+seq.23380.16,seq_23380_16,T3HPD,Trans-3-hydroxy-L-proline dehydratase,Q96EM0,112849,L3HYPDH,0,1,0,0,0,0,0,0,0,0
+seq.23401.3,seq_23401_3,DAZP1,DAZ-associated protein 1,Q96EP5,26528,DAZAP1,1,1,1,1,1,1,1,0,1,0
+seq.23580.2,seq_23580_2,PRR15,Proline-rich protein 15,Q8IV56,222171,PRR15,1,0,0,0,1,1,1,0,0,1
+seq.23593.14,seq_23593_14,M21D2,Protein MB21D2,Q8IYB1,151963,MB21D2,0,0,0,0,0,0,1,0,0,0
+seq.23611.16,seq_23611_16,MALD2,MARVEL domain-containing protein 2,Q8N4S9,153562,MARVELD2,1,1,0,1,1,1,1,1,1,1
+seq.23631.1,seq_23631_1,GALK2,N-acetylgalactosamine kinase,Q01415,2585,GALK2,1,1,0,0,0,0,1,1,0,1
+seq.23638.3,seq_23638_3,CARME,Carnosine N-methyltransferase,Q8N4J0,138199,CARNMT1,0,0,0,1,0,0,0,0,0,0
+seq.23695.1,seq_23695_1,FSD1,Fibronectin type III and SPRY domain-containing protein 1,Q9BTV5,79187,FSD1,0,0,1,0,0,0,0,0,0,0
+seq.23702.98,seq_23702_98,SHKB1,SH3KBP1-binding protein 1,Q8TBC3,92799,SHKBP1,0,1,0,0,0,0,0,0,0,0
+seq.23771.17,seq_23771_17,ATF5,Cyclic AMP-dependent transcription factor ATF-5,Q9Y2D1,22809,ATF5,0,0,0,0,0,0,1,0,0,0
+seq.2381.52,seq_2381_52,C5,Complement C5,P01031,727,C5,0,0,0,0,0,1,0,0,0,0
+seq.24408.30,seq_24408_30,MBNL1,Muscleblind-like protein 1,Q9NR56,4154,MBNL1,0,1,1,0,0,0,0,0,0,0
+seq.24445.38,seq_24445_38,AF1L2,Actin filament-associated protein 1-like 2,Q8N4X5,84632,AFAP1L2,0,0,0,1,0,0,1,0,0,0
+seq.24457.12,seq_24457_12,USF2,USF2,Q15853,7392,USF2,1,1,1,1,1,1,1,1,1,1
+seq.24499.36,seq_24499_36,LGSN,Lengsin,Q5TDP6,51557,LGSN,0,0,0,0,0,0,0,0,1,0
+seq.24658.98,seq_24658_98,CC115,Coiled-coil domain-containing protein 115,Q96NT0,84317,CCDC115,0,0,0,0,0,0,0,1,0,0
+seq.24693.5,seq_24693_5,CLIC3,Chloride intracellular channel protein 3,O95833,9022,CLIC3,0,0,0,0,0,1,0,0,0,0
+seq.24707.6,seq_24707_6,CX038,Uncharacterized protein CXorf38,Q8TB03,159013,CXorf38,0,0,0,0,0,0,1,0,0,1
+seq.24912.40,seq_24912_40,WDR26,WD repeat-containing protein 26,Q9H7D7,80232,WDR26,0,0,1,0,0,0,0,0,0,0
+seq.24914.10,seq_24914_10,EZH2,Enhancer of zeste homolog 2,Q15910,2146,EZH2,1,1,0,0,0,1,0,0,0,0
+seq.24955.116,seq_24955_116,ZHX2,Zinc fingers and homeoboxes protein 2,Q9Y6X8,22882,ZHX2,0,1,0,0,0,0,0,0,0,0
+seq.24970.117,seq_24970_117,SRRT,Serrate RNA effector molecule homolog,Q9BXP5,51593,SRRT,0,0,0,0,1,0,0,0,0,0
+seq.25036.10,seq_25036_10,RAGP1,Ran GTPase-activating protein 1,P46060,5905,RANGAP1,0,0,0,0,0,0,1,0,0,0
+seq.25050.82,seq_25050_82,TPP2,Tripeptidyl-peptidase 2,P29144,7174,TPP2,0,0,0,0,0,0,0,0,1,0
+seq.25076.2,seq_25076_2,Selenium-binding protein 1,Selenium-binding protein 1,Q13228,8991,SELENBP1,1,1,1,0,1,1,1,1,0,1
+seq.25117.17,seq_25117_17,PGM5,PGM5,Q15124,5239,PGM5,0,0,0,1,0,0,0,0,0,0
+seq.25209.15,seq_25209_15,ATNG,Sodium/potassium-transporting ATPase gamma chain,P54710,486,FXYD2,1,0,0,0,1,1,1,0,0,1
+seq.25242.12,seq_25242_12,CATIP,Ciliogenesis-associated TTC17-interacting protein,Q7Z7H3,375307,CATIP,0,0,0,1,0,0,0,0,0,0
+seq.25272.17,seq_25272_17,CAD23,Cadherin-23,Q9H251,64072,CDH23,1,0,0,0,0,0,0,0,0,0
+seq.25283.2,seq_25283_2,CTNA3,Catenin alpha-3,Q9UI47,29119,CTNNA3,0,0,0,0,0,0,0,0,0,1
+seq.25291.27,seq_25291_27,PKHM2,Pleckstrin homology domain-containing family M member 2,Q8IWE5,23207,PLEKHM2,0,0,0,1,0,1,0,0,0,0
+seq.25300.39,seq_25300_39,MALT1,Mucosa-associated lymphoid tissue lymphoma translocation protein 1,Q9UDY8,10892,MALT1,1,0,0,0,0,0,0,0,0,0
+seq.25428.103,seq_25428_103,IFRD1,Interferon-related developmental regulator 1,O00458,3475,IFRD1,0,0,0,1,1,0,0,0,0,0
+seq.25452.16,seq_25452_16,MSD2,Myb/SANT-like DNA-binding domain-containing protein 2,Q6P1R3,79684,MSANTD2,1,1,1,1,1,1,1,1,1,1
+seq.25456.73,seq_25456_73,PRS8,26S protease regulatory subunit 8,P62195,5705,PSMC5,0,0,0,0,0,1,1,0,1,0
+seq.25461.3,seq_25461_3,ARRS,S-arrestin,P10523,6295,SAG,0,0,0,0,0,0,1,0,0,0
+seq.25464.1,seq_25464_1,CP2CJ,Cytochrome P450 2C19,P33261,1557,CYP2C19,0,0,0,1,0,0,0,0,0,0
+seq.25482.5,seq_25482_5,NFIA,Nuclear factor 1 A-type,Q12857,4774,NFIA,0,0,0,0,0,1,0,0,0,0
+seq.2580.83,seq_2580_83,Myeloperoxidase,Myeloperoxidase,P05164,4353,MPO,0,0,0,0,0,1,0,0,0,0
+seq.2585.2,seq_2585_2,PRL,Prolactin,P01236,5617,PRL,1,1,1,1,1,1,1,1,1,1
+seq.25948.18,seq_25948_18,PKN2,Serine/threonine-protein kinase N2,Q16513,5586,PKN2,0,1,0,0,0,0,1,0,0,0
+seq.2599.51,seq_2599_51,4-1BB ligand,Tumor necrosis factor ligand superfamily member 9,P41273,8744,TNFSF9,0,0,0,0,0,0,1,0,0,0
+seq.2616.23,seq_2616_23,ERBB2,Receptor tyrosine-protein kinase erbB-2,P04626,2064,ERBB2,0,1,1,0,0,0,0,0,0,0
+seq.2654.19,seq_2654_19,TNF sR-I,Tumor necrosis factor receptor superfamily member 1A,P19438,7132,TNFRSF1A,0,0,1,1,0,0,0,1,0,0
+seq.2658.27,seq_2658_27,TrkC,NT-3 growth factor receptor,Q16288,4916,NTRK3,1,0,0,0,0,0,0,0,0,0
+seq.2670.67,seq_2670_67,CK-MM,Creatine kinase M-type,P06732,1158,CKM,1,1,1,0,1,1,1,1,1,1
+seq.2677.1,seq_2677_1,ERBB1,Epidermal growth factor receptor,P00533,1956,EGFR,1,1,1,1,1,1,1,1,1,1
+seq.2692.74,seq_2692_74,NPS-PLA2,"Phospholipase A2, membrane associated",P14555,5320,PLA2G2A,0,0,0,0,1,0,0,0,0,0
+seq.2696.87,seq_2696_87,Persephin,Persephin,O60542,5623,PSPN,0,0,0,1,0,0,0,1,1,0
+seq.2711.6,seq_2711_6,CNTFR alpha,Ciliary neurotrophic factor receptor subunit alpha,P26992,1271,CNTFR,1,1,1,1,1,1,1,1,1,1
+seq.2743.5,seq_2743_5,Sonic Hedgehog,Sonic hedgehog protein,Q15465,6469,SHH,0,1,1,0,1,1,0,0,0,1
+seq.2754.50,seq_2754_50,C3,Complement C3,P01024,718,C3,0,0,0,0,0,0,0,0,1,0
+seq.2755.8,seq_2755_8,C3adesArg,C3a anaphylatoxin des Arginine,P01024,718,C3,0,0,0,0,0,0,1,0,0,0
+seq.2771.35,seq_2771_35,IGFBP-1,Insulin-like growth factor-binding protein 1,P08833,3484,IGFBP1,0,0,0,0,0,0,0,0,0,1
+seq.2778.10,seq_2778_10,IL-22,Interleukin-22,Q9GZX6,50616,IL22,0,0,0,1,0,0,0,0,0,0
+seq.2789.26,seq_2789_26,MMP-7,Matrilysin,P09237,4316,MMP7,1,1,0,0,0,1,1,0,1,0
+seq.2829.19,seq_2829_19,IL-27,Interleukin-27,Q8NEV9|Q14213,246778|10148,IL27|EBI3,0,0,0,0,0,0,0,0,0,1
+seq.2851.63,seq_2851_63,C5a,C5a anaphylatoxin,P01031,727,C5,0,0,0,1,0,1,0,0,0,0
+seq.2858.29,seq_2858_29,Hat1,Histone acetyltransferase type B catalytic subunit,O14929,8520,HAT1,0,1,0,0,0,0,0,1,0,0
+seq.2890.59,seq_2890_59,CCL28,C-C motif chemokine 28,Q9NRJ3,56477,CCL28,0,0,0,0,0,1,0,0,0,0
+seq.2900.53,seq_2900_53,HCC-1,C-C motif chemokine 14,Q16627,6358,CCL14,0,0,1,1,1,1,1,1,1,0
+seq.2911.27,seq_2911_27,Midkine,Midkine,P21741,4192,MDK,0,0,0,0,0,0,0,0,1,0
+seq.2962.50,seq_2962_50,PTHrP,Parathyroid hormone-related protein,P12272,5744,PTHLH,0,0,0,0,0,0,1,0,0,0
+seq.3000.66,seq_3000_66,MBL,Mannose-binding protein C,P11226,4153,MBL2,0,0,0,1,0,1,0,0,0,0
+seq.3022.4,seq_3022_4,CTLA-4,Cytotoxic T-lymphocyte protein 4,P16410,1493,CTLA4,0,0,1,0,0,0,0,0,0,0
+seq.3024.18,seq_3024_18,a2-Antiplasmin,Alpha-2-antiplasmin,P08697,5345,SERPINF2,1,0,1,1,1,1,1,1,1,1
+seq.3026.5,seq_3026_5,Calpastatin,Calpastatin,P20810,831,CAST,0,0,0,0,0,0,0,0,0,1
+seq.3029.52,seq_3029_52,DC-SIGN,CD209 antigen,Q9NNX6,30835,CD209,0,0,0,0,0,1,0,1,1,1
+seq.3033.57,seq_3033_57,Galectin-2,Galectin-2,P05162,3957,LGALS2,0,0,0,0,0,0,0,1,0,0
+seq.3034.1,seq_3034_1,GFAP,Glial fibrillary acidic protein,P14136,2670,GFAP,0,0,1,0,0,0,0,0,0,0
+seq.3042.7,seq_3042_7,Myoglobin,Myoglobin,P02144,4151,MB,1,1,0,1,1,1,1,1,0,1
+seq.3045.72,seq_3045_72,PTN,Pleiotrophin,P21246,5764,PTN,0,1,0,0,0,0,0,0,0,0
+seq.3056.11,seq_3056_11,NKG2D,NKG2-D type II integral membrane protein,P26718,100528032,KLRK1,0,0,0,0,0,1,0,0,0,0
+seq.3061.61,seq_3061_61,Cathepsin B,Cathepsin B,P07858,1508,CTSB,0,0,1,0,0,0,0,0,0,0
+seq.3069.52,seq_3069_52,IgM,Immunoglobulin M,P01871,3507 3512 50802 3535,IGHM,0,1,1,1,1,1,1,0,0,1
+seq.3074.6,seq_3074_6,LBP,Lipopolysaccharide-binding protein,P18428,3929,LBP,0,1,0,0,1,0,1,0,1,1
+seq.3151.6,seq_3151_6,IL-2 sRa,Interleukin-2 receptor subunit alpha,P01589,3559,IL2RA,0,0,0,0,0,0,0,0,1,0
+seq.3169.70,seq_3169_70,IDUA,Alpha-L-iduronidase,P35475,3425,IDUA,0,0,0,0,1,0,0,0,0,0
+seq.3170.6,seq_3170_6,AMPM2,Methionine aminopeptidase 2,P50579,10988,METAP2,1,1,0,1,1,1,1,1,1,0
+seq.3173.49,seq_3173_49,ASAHL,N-acylethanolamine-hydrolyzing acid amidase,Q02083,27163,NAAA,0,0,0,0,1,0,0,1,1,0
+seq.3181.50,seq_3181_50,Cathepsin S,Cathepsin S,P25774,1520,CTSS,0,0,0,1,0,0,0,0,0,0
+seq.3198.4,seq_3198_4,IDS,Iduronate 2-sulfatase,P22304,3423,IDS,1,1,0,0,1,1,1,1,0,1
+seq.3204.2,seq_3204_2,LKHA4,Leukotriene A-4 hydrolase,P09960,4048,LTA4H,1,1,1,1,1,1,1,1,1,0
+seq.3216.2,seq_3216_2,PIGR,Polymeric immunoglobulin receptor,P01833,5284,PIGR,1,0,0,0,0,0,1,0,0,0
+seq.3220.40,seq_3220_40,RET,Proto-oncogene tyrosine-protein kinase receptor Ret,P07949,5979,RET,0,0,1,0,0,0,0,0,1,0
+seq.3232.28,seq_3232_28,TrATPase,Tartrate-resistant acid phosphatase type 5,P13686,54,ACP5,1,1,1,1,1,1,1,1,1,1
+seq.3313.21,seq_3313_21,FCN2,Ficolin-2,Q15485,2220,FCN2,0,0,0,0,0,1,0,0,0,0
+seq.3340.53,seq_3340_53,TSP4,Thrombospondin-4,P35443,7060,THBS4,0,1,0,0,1,1,0,1,0,1
+seq.3357.67,seq_3357_67,CDK2/cyclin A,Cyclin-dependent kinase 2:Cyclin-A2 complex,P24941|P20248,1017|890,CDK2|CCNA2,1,1,0,0,0,0,0,0,0,0
+seq.3362.61,seq_3362_61,CRDL1,Chordin-like protein 1,Q9BU40,91851,CHRDL1,0,0,1,0,0,0,0,0,1,0
+seq.3364.76,seq_3364_76,Cathepsin V,Cathepsin L2,O60911,1515,CTSV,0,0,0,1,1,1,1,1,1,1
+seq.3366.51,seq_3366_51,ECM1,Extracellular matrix protein 1,Q16610,1893,ECM1,0,0,0,0,0,0,1,0,0,0
+seq.3378.49,seq_3378_49,Kallikrein 7,Kallikrein-7,P49862,5650,KLK7,1,0,0,0,0,0,1,0,1,0
+seq.3396.54,seq_3396_54,Renin,Renin,P00797,5972,REN,0,0,0,0,0,1,1,0,0,0
+seq.3401.8,seq_3401_8,TCPTP,Tyrosine-protein phosphatase non-receptor type 2,P17706,5771,PTPN2,0,0,0,0,0,0,0,1,1,1
+seq.3403.1,seq_3403_1,TPSB2,Tryptase beta-2,P20231,64499,TPSB2,0,0,0,1,0,0,0,0,0,0
+seq.3449.58,seq_3449_58,Kallistatin,Kallistatin,P29622,5267,SERPINA4,0,0,0,1,0,0,0,0,0,0
+seq.3461.58,seq_3461_58,PGCB,Brevican core protein,Q96GW7,63827,BCAN,1,0,1,1,1,1,1,0,1,1
+seq.3470.1,seq_3470_1,sE-Selectin,E-selectin,P16581,6401,SELE,0,0,1,0,0,0,0,0,0,0
+seq.3480.7,seq_3480_7,DUS3,Dual specificity protein phosphatase 3,P51452,1845,DUSP3,1,0,0,0,0,0,0,0,0,0
+seq.3504.58,seq_3504_58,LEAP-1,Hepcidin,P81172,57817,HAMP,0,0,0,0,0,0,0,0,1,0
+seq.3508.78,seq_3508_78,MDC,C-C motif chemokine 22,O00626,6367,CCL22,0,1,1,0,0,0,0,1,1,0
+seq.3516.60,seq_3516_60,SDF-1,Stromal cell-derived factor 1,P48061,6387,CXCL12,0,1,0,0,0,0,0,0,1,0
+seq.3521.16,seq_3521_16,TSH,Thyroid Stimulating Hormone,P01215|P01222,1081|7252,CGA|TSHB,0,0,0,0,0,1,1,0,0,1
+seq.3636.37,seq_3636_37,OLR1,Oxidized low-density lipoprotein receptor 1,P78380,4973,OLR1,0,0,1,0,0,0,0,0,0,0
+seq.3676.15,seq_3676_15,IGF-II receptor,Cation-independent mannose-6-phosphate receptor,P11717,3482,IGF2R,1,1,1,1,0,1,0,0,1,0
+seq.3709.4,seq_3709_4,ALT,Alanine aminotransferase 1,P24298,2875,GPT,1,1,1,1,1,1,1,1,1,1
+seq.3714.49,seq_3714_49,CK-MB,Creatine kinase M-type:Creatine kinase B-type heterodimer,P12277|P06732,1152|1158,CKB|CKM,1,0,1,1,1,0,1,1,1,1
+seq.3723.1,seq_3723_1,BNP-32,Brain natriuretic peptide 32,P16860,4879,NPPB,0,0,0,0,0,0,0,0,1,0
+seq.3773.15,seq_3773_15,sTie-2,"Angiopoietin-1 receptor, soluble",Q02763,7010,TEK,0,0,0,0,0,0,0,0,1,0
+seq.3795.6,seq_3795_6,ADAM 9,Disintegrin and metalloproteinase domain-containing protein 9,Q13443,8754,ADAM9,0,0,1,1,1,1,1,0,0,1
+seq.3799.11,seq_3799_11,Carbonic anhydrase III,Carbonic anhydrase 3,P07451,761,CA3,1,1,1,1,1,1,1,1,1,1
+seq.3858.5,seq_3858_5,PPAC,Low molecular weight phosphotyrosine protein phosphatase,P24666,52,ACP1,0,0,0,0,0,1,0,0,0,0
+seq.4125.52,seq_4125_52,sRAGE,"Advanced glycosylation end product-specific receptor, soluble",Q15109,177,AGER,0,0,0,0,0,0,0,0,1,0
+seq.4135.84,seq_4135_84,IgE,Immunoglobulin E,P01854,3497  50802 3535,IGHE,0,1,1,0,0,0,0,0,0,0
+seq.4153.11,seq_4153_11,alpha-1-antichymotrypsin complex,Alpha-1-antichymotrypsin complex,P01011,12,SERPINA3,1,1,1,1,1,1,1,1,1,1
+seq.4282.3,seq_4282_3,RAN,GTP-binding nuclear protein Ran,P62826,5901,RAN,1,1,1,1,1,1,1,1,1,1
+seq.4297.62,seq_4297_62,Spondin-1,Spondin-1,Q9HCB6,10418,SPON1,1,0,1,0,0,1,1,0,0,1
+seq.4322.28,seq_4322_28,AMNLS,Protein amnionless,Q9BXJ7,81693,AMN,0,0,0,0,0,0,0,1,0,0
+seq.4342.10,seq_4342_10,sICAM-1,Intercellular adhesion molecule 1,P05362,3383,ICAM1,1,0,0,0,0,1,1,0,1,0
+seq.4471.50,seq_4471_50,TGM3,Protein-glutamine gamma-glutamyltransferase E,Q08188,7053,TGM3,0,0,0,0,0,0,1,0,0,0
+seq.4480.59,seq_4480_59,C3b,Complement C3b,P01024,718,C3,1,0,0,0,0,1,1,1,1,1
+seq.4482.66,seq_4482_66,"C5b, 6 Complex",Complement C5b-C6 complex,P01031|P13671,727|729,C5|C6,0,0,0,0,0,1,0,0,0,0
+seq.4496.60,seq_4496_60,MMP-12,Macrophage metalloelastase,P39900,4321,MMP12,0,0,0,0,0,0,0,1,0,0
+seq.4541.49,seq_4541_49,CDON,Cell adhesion molecule-related/down-regulated by oncogenes,Q4KMG0,50937,CDON,1,1,1,1,0,1,0,0,0,1
+seq.4542.24,seq_4542_24,Clusterin,Clusterin,P10909,1191,CLU,1,0,0,1,1,1,0,0,0,0
+seq.4559.64,seq_4559_64,KYNU,Kynureninase,Q16719,8942,KYNU,0,0,0,0,1,0,1,0,0,0
+seq.4588.1,seq_4588_1,PH,Pancreatic hormone,P01298,5539,PPY,1,1,1,1,1,1,1,1,1,1
+seq.4769.10,seq_4769_10,Olfactomedin-4,Olfactomedin-4,Q6UX06,10562,OLFM4,1,1,1,1,1,1,1,1,1,1
+seq.4801.13,seq_4801_13,PERL,Lactoperoxidase,P22079,4025,LPO,0,0,0,0,0,1,0,0,0,0
+seq.4811.33,seq_4811_33,ITI heavy chain H4,Inter-alpha-trypsin inhibitor heavy chain H4,Q14624,3700,ITIH4,1,0,0,0,0,0,0,0,0,0
+seq.4880.21,seq_4880_21,GDF2,Growth/differentiation factor 2,Q9UK05,2658,GDF2,0,0,0,0,0,1,0,0,0,0
+seq.4930.21,seq_4930_21,Stanniocalcin-1,Stanniocalcin-1,P52823,6781,STC1,0,1,1,1,0,1,1,0,0,0
+seq.4968.50,seq_4968_50,CAPG,Macrophage-capping protein,P40121,822,CAPG,0,0,1,1,1,1,1,1,0,0
+seq.4982.54,seq_4982_54,Elafin,Elafin,P19957,5266,PI3,1,1,1,1,1,1,1,1,1,1
+seq.4983.6,seq_4983_6,ERP29,Endoplasmic reticulum resident protein 29,P30040,10961,ERP29,0,0,0,0,0,0,0,1,0,0
+seq.4988.49,seq_4988_49,FGFR4,Fibroblast growth factor receptor 4,P22455,2264,FGFR4,0,0,0,1,0,0,0,0,0,0
+seq.4992.49,seq_4992_49,GRN,Granulins,P28799,2896,GRN,0,0,0,0,0,0,0,0,0,1
+seq.5000.52,seq_5000_52,LG3BP,Galectin-3-binding protein,Q08380,3959,LGALS3BP,0,0,0,0,0,1,0,0,0,0
+seq.5011.11,seq_5011_11,PBEF,Nicotinamide phosphoribosyltransferase,P43490,10135,NAMPT,0,0,0,0,0,0,0,0,1,0
+seq.5015.15,seq_5015_15,PAFAH,Platelet-activating factor acetylhydrolase,Q13093,7941,PLA2G7,0,0,0,1,0,0,0,0,0,0
+seq.5023.23,seq_5023_23,PUR8,Adenylosuccinate lyase,P30566,158,ADSL,1,0,1,1,1,1,1,1,1,1
+seq.5029.3,seq_5029_3,SEPR,Prolyl endopeptidase FAP,Q12884,2191,FAP,0,0,0,1,0,0,0,0,0,0
+seq.5103.30,seq_5103_30,MO2R1:ECD,"Cell surface glycoprotein CD200 receptor 1:Isoform 4, Extracellular Domain",Q8TD46,131450,CD200R1,1,0,0,0,0,0,0,0,0,0
+seq.5106.52,seq_5106_52,NOTC2,Neurogenic locus notch homolog protein 2,Q04721,4853,NOTCH2,0,1,0,0,0,0,0,0,0,0
+seq.5109.24,seq_5109_24,Nr-CAM,Neuronal cell adhesion molecule,Q92823,4897,NRCAM,1,0,0,0,0,0,0,1,0,0
+seq.5252.33,seq_5252_33,PDE11,"Dual 3',5'-cyclic-AMP and -GMP phosphodiesterase 11A",Q9HCR9,50940,PDE11A,1,1,1,0,1,1,1,0,1,1
+seq.5315.22,seq_5315_22,Troponin T,"Troponin T, cardiac muscle",P45379,7139,TNNT2,1,1,1,1,1,1,1,1,1,1
+seq.5437.63,seq_5437_63,FABP,"Fatty acid-binding protein, heart",P05413,2170,FABP3,1,0,1,0,1,1,1,0,0,0
+seq.5440.26,seq_5440_26,"Troponin I, skeletal, fast twitch","Troponin I, fast skeletal muscle",P48788,7136,TNNI2,0,0,0,0,0,0,0,1,0,0
+seq.5456.59,seq_5456_59,CNDP1,Beta-Ala-His dipeptidase,Q96KN2,84735,CNDP1,0,0,0,0,0,1,0,0,0,0
+seq.5462.62,seq_5462_62,Ficolin-3,Ficolin-3,O75636,8547,FCN3,1,0,1,1,1,1,0,1,1,1
+seq.5476.66,seq_5476_66,PKC-G,Protein kinase C gamma type,P05129,5582,PRKCG,1,1,1,0,0,1,0,0,1,1
+seq.5478.50,seq_5478_50,PSMA,Glutamate carboxypeptidase 2,Q04609,2346,FOLH1,1,0,0,0,0,1,1,0,0,0
+seq.5487.7,seq_5487_7,SLAF7,SLAM family member 7,Q9NQ25,57823,SLAMF7,0,0,1,0,1,0,0,0,0,0
+seq.5581.28,seq_5581_28,FGL1,Fibrinogen-like protein 1,Q08830,2267,FGL1,0,0,0,0,1,0,0,0,0,0
+seq.5594.87,seq_5594_87,MESD2,LDLR chaperone MESD,Q14696,23184,MESD,0,0,1,0,0,0,0,0,0,0
+seq.5611.56,seq_5611_56,D108B,Beta-defensin 108B,Q8NET1,245911,DEFB108B,0,1,0,1,1,1,1,1,1,1
+seq.5614.44,seq_5614_44,CRH,Corticoliberin,P06850,1392,CRH,0,0,0,0,0,0,0,0,1,0
+seq.5618.50,seq_5618_50,FAM3B,Protein FAM3B,P58499,54097,FAM3B,0,1,0,0,0,0,0,0,0,0
+seq.5621.64,seq_5621_64,THSD1,Thrombospondin type-1 domain-containing protein 1,Q9NS62,55901,THSD1,0,0,0,0,0,1,0,0,0,0
+seq.5630.48,seq_5630_48,CM35H,CMRF35-like molecule 8,Q9UGN4,11314,CD300A,0,0,0,1,0,0,0,1,0,0
+seq.5632.6,seq_5632_6,CRAC1,Cartilage acidic protein 1,Q9NQ79,55118,CRTAC1,0,0,1,0,1,1,1,1,0,1
+seq.5636.10,seq_5636_10,MFAP4,Microfibril-associated glycoprotein 4,P55083,4239,MFAP4,0,0,0,1,0,0,0,0,0,0
+seq.5654.70,seq_5654_70,TMX3,Protein disulfide-isomerase TMX3,Q96JJ7,54495,TMX3,0,0,0,0,0,0,1,0,0,0
+seq.5660.51,seq_5660_51,SOD3,Extracellular superoxide dismutase [Cu-Zn],P08294,6649,SOD3,0,0,0,1,1,0,0,0,1,0
+seq.5661.15,seq_5661_15,IL-18,Interleukin-18,Q14116,3606,IL18,0,0,0,0,0,1,1,1,0,0
+seq.5682.13,seq_5682_13,VASN,Vasorin,Q6EMK4,114990,VASN,0,1,0,0,0,0,1,0,0,0
+seq.5698.60,seq_5698_60,Tenascin-X,Tenascin-X,P22105,7148,TNXB,0,1,0,0,0,1,0,0,0,0
+seq.5701.81,seq_5701_81,Tetranectin,Tetranectin,P05452,7123,CLEC3B,1,1,1,0,0,1,0,1,1,1
+seq.5733.61,seq_5733_61,IFN10,Interferon alpha-10,P01566,3446,IFNA10,0,0,0,0,0,0,0,0,0,1
+seq.5749.53,seq_5749_53,COL,Colipase,P04118,1208,CLPS,0,0,0,0,0,0,0,0,0,1
+seq.5759.10,seq_5759_10,Ephrin-A3,Ephrin-A3,P52797,1944,EFNA3,0,0,0,1,1,1,0,1,0,0
+seq.5803.24,seq_5803_24,C3d,Complement C3d fragment,P01024,718,C3,0,0,0,0,0,0,0,1,0,1
+seq.5879.51,seq_5879_51,Dynactin subunit 2,Dynactin subunit 2,Q13561,10540,DCTN2,1,1,0,1,0,1,0,0,1,1
+seq.5934.1,seq_5934_1,Ferritin,Ferritin,P02794|P02792,2495|2512,FTH1|FTL,0,0,0,0,0,0,0,0,0,1
+seq.5954.62,seq_5954_62,PTH,Parathyroid hormone,P01270,5741,PTH,0,0,1,1,0,0,1,0,0,0
+seq.5982.50,seq_5982_50,FHR1,Complement factor H-related protein 1,Q03591,3078,CFHR1,0,0,1,0,0,0,0,0,0,0
+seq.6077.63,seq_6077_63,CECR1,Adenosine deaminase CECR1,Q9NZK5,51816,ADA2,1,0,0,0,0,1,0,0,0,0
+seq.6081.52,seq_6081_52,PCOC2,Procollagen C-endopeptidase enhancer 2,Q9UKZ9,26577,PCOLCE2,0,0,0,0,0,0,0,0,1,0
+seq.6086.15,seq_6086_15,CRDL2,Chordin-like protein 2,Q6WN34,25884,CHRDL2,0,1,0,0,0,0,0,0,0,0
+seq.6207.10,seq_6207_10,prosaposin,Prosaposin,P07602,5660,PSAP,0,1,0,0,0,0,0,0,0,1
+seq.6225.3,seq_6225_3,Prostasin,Prostasin,Q16651,5652,PRSS8,1,1,1,1,1,1,1,1,1,1
+seq.6276.16,seq_6276_16,Furin,Furin,P09958,5045,FURIN,0,0,0,0,0,1,0,0,0,0
+seq.6289.78,seq_6289_78,RHG36,Rho GTPase-activating protein 36,Q6ZRI8,158763,ARHGAP36,0,1,0,0,0,0,0,1,0,0
+seq.6304.8,seq_6304_8,C1QT1,Complement C1q tumor necrosis factor-related protein 1,Q9BXJ1,114897,C1QTNF1,1,0,0,0,0,0,0,0,0,0
+seq.6315.58,seq_6315_58,PLBL1,Phospholipase B-like 1,Q6P4A8,79887,PLBD1,0,0,0,1,0,0,0,0,0,0
+seq.6342.10,seq_6342_10,Nephronectin,Nephronectin,Q6UXI9,255743,NPNT,0,0,1,0,0,0,0,0,0,0
+seq.6371.50,seq_6371_50,ANGL7,Angiopoietin-related protein 7,O43827,10218,ANGPTL7,0,0,0,0,0,1,0,0,0,0
+seq.6378.2,seq_6378_2,CEI,Protein CEI,Q86SI9,153571,C5orf38,0,0,0,0,1,1,1,0,0,0
+seq.6383.90,seq_6383_90,TLL1,Tolloid-like protein 1,O43897,7092,TLL1,0,0,0,0,0,0,0,0,1,0
+seq.6385.63,seq_6385_63,VWA1,von Willebrand factor A domain-containing protein 1,Q6PCB0,64856,VWA1,0,0,0,0,1,1,0,0,0,0
+seq.6388.21,seq_6388_21,CC126,Coiled-coil domain-containing protein 126,Q96EE4,90693,CCDC126,0,0,0,0,0,0,1,0,0,0
+seq.6390.18,seq_6390_18,NPS,Neuropeptide S,P0C0P6,594857,NPS,0,0,0,0,0,1,1,0,1,1
+seq.6392.7,seq_6392_7,WISP-2,WNT1-inducible-signaling pathway protein 2,O76076,8839,CCN5,0,0,0,0,1,0,0,0,1,0
+seq.6423.66,seq_6423_66,C1QL2,Complement C1q-like protein 2,Q7Z5L3,165257,C1QL2,0,1,0,0,0,0,1,1,0,1
+seq.6434.18,seq_6434_18,Amine oxidase,Retina-specific copper amine oxidase,O75106,314,AOC2,0,0,0,0,0,0,0,0,1,1
+seq.6440.31,seq_6440_31,MFAP5,Microfibrillar-associated protein 5,Q13361,8076,MFAP5,0,0,0,0,0,1,1,0,0,0
+seq.6442.6,seq_6442_6,BAGE3,B melanoma antigen 3,Q86Y29,85318,BAGE3,1,0,0,0,1,0,0,0,0,0
+seq.6462.12,seq_6462_12,TIMP-4,Metalloproteinase inhibitor 4,Q99727,7079,TIMP4,1,1,1,1,1,1,1,1,1,1
+seq.6485.59,seq_6485_59,IGLL1,Immunoglobulin lambda-like polypeptide 1,P15814,3543,IGLL1,1,1,1,1,1,1,1,1,1,1
+seq.6521.35,seq_6521_35,NPTX2,Neuronal pentraxin-2,P47972,4885,NPTX2,0,0,1,0,0,0,0,0,0,0
+seq.6525.17,seq_6525_17,DUSP13,Dual specificity protein phosphatase 13 isoform A,Q6B8I1,51207,DUSP13,1,0,0,0,0,0,0,1,0,0
+seq.6546.41,seq_6546_41,DKK2,Dickkopf-related protein 2,Q9UBU2,27123,DKK2,1,0,0,0,0,0,0,0,0,0
+seq.6580.29,seq_6580_29,Pregnancy zone protein,Pregnancy zone protein,P20742,5858,PZP,0,0,1,0,1,0,0,0,0,0
+seq.6597.24,seq_6597_24,TM157,Membrane protein FAM174A,Q8TBP5,345757,FAM174A,0,0,1,1,1,0,1,0,0,1
+seq.6603.18,seq_6603_18,KALM,Anosmin-1,P23352,3730,ANOS1,0,0,0,1,0,0,0,0,0,0
+seq.6606.61,seq_6606_61,KISS1,Metastasis-suppressor KiSS-1,Q15726,3814,KISS1,0,1,1,1,1,0,0,1,1,0
+seq.6641.60,seq_6641_60,PolyUbiquitin K48,PolyUbiquitin K48-linked,P0CG47,7314,UBB,1,0,0,1,1,1,1,0,0,0
+seq.6645.53,seq_6645_53,Periostin,Periostin,Q15063,10631,POSTN,1,0,0,1,0,0,0,0,0,1
+seq.6895.1,seq_6895_1,TR:CD,Transferrin receptor protein 1:Cytoplasmic domain,P02786,7037,TFRC,0,0,0,0,1,0,0,0,0,0
+seq.6917.49,seq_6917_49,LRRC3,Leucine-rich repeat-containing protein 3,Q9BY71,81543,LRRC3,0,0,0,0,0,0,0,0,0,1
+seq.6918.183,seq_6918_183,CCKN,Cholecystokinin,P06307,885,CCK,1,1,1,1,1,1,1,1,1,0
+seq.6927.7,seq_6927_7,NDST1,Bifunctional heparan sulfate N-deacetylase/N-sulfotransferase 1,P52848,3340,NDST1,0,0,0,0,0,0,0,0,1,1
+seq.6938.21,seq_6938_21,PCDGC,Protocadherin gamma-A12,O60330,26025,PCDHGA12,0,0,1,0,0,0,0,1,0,0
+seq.6941.11,seq_6941_11,SUMF1,Sulfatase-modifying factor 1,Q8NBK3,285362,SUMF1,1,1,1,1,1,1,1,1,1,1
+seq.6947.4,seq_6947_4,SIA10,"Type 2 lactosamine alpha-2,3-sialyltransferase",Q9Y274,10402,ST3GAL6,0,0,0,0,0,1,1,1,1,1
+seq.6948.82,seq_6948_82,FIG4,Polyphosphoinositide phosphatase,Q92562,9896,FIG4,0,0,0,0,0,0,0,0,1,0
+seq.6957.14,seq_6957_14,LIPR2,Pancreatic lipase-related protein 2,P54317,5408,PNLIPRP2,0,0,0,1,0,0,0,0,0,0
+seq.7083.74,seq_7083_74,MATN4,Matrilin-4,O95460,8785,MATN4,1,0,1,1,1,0,1,0,0,0
+seq.7140.1,seq_7140_1,ELA2A,Chymotrypsin-like elastase family member 2A,P08217,63036,CELA2A,0,0,0,0,1,0,1,0,0,0
+seq.7186.111,seq_7186_111,STX3,Syntaxin-3,Q13277,6809,STX3,1,0,0,0,0,0,0,0,1,1
+seq.7202.107,seq_7202_107,SEMA6C,Semaphorin-6C,Q9H3T2,10500,SEMA6C,0,0,0,0,0,1,0,0,0,0
+seq.7215.18,seq_7215_18,NADH-cytochrome b5 reductase,NADH-cytochrome b5 reductase 3,P00387,1727,CYB5R3,1,1,0,0,0,1,0,0,0,1
+seq.7655.11,seq_7655_11,N-terminal pro-BNP,N-terminal pro-BNP,P16860,4879,NPPB,1,1,1,1,1,1,1,0,0,1
+seq.7695.106,seq_7695_106,SQSTM,Sequestosome-1,Q13501,8878,SQSTM1,0,0,0,0,0,0,1,0,0,0
+seq.7745.3,seq_7745_3,ZCD1,CDGSH iron-sulfur domain-containing protein 1,Q9NZ45,55847,CISD1,0,0,0,0,1,0,0,0,0,0
+seq.7761.125,seq_7761_125,CHKB,Choline/ethanolamine kinase,Q9Y259,1120,CHKB,1,0,0,0,0,0,0,0,0,0
+seq.7784.1,seq_7784_1,"Kininogen, HMW",Kininogen-1,P01042,3827,KNG1,0,0,0,0,0,1,1,0,0,0
+seq.7796.10,seq_7796_10,CD79A,B-cell antigen receptor complex-associated protein alpha chain,P11912,973,CD79A,0,0,0,0,0,0,0,0,1,0
+seq.7813.6,seq_7813_6,"Alkaline phosphatase, placental","Alkaline phosphatase, placental type",P05187,250,ALPP,1,1,1,1,1,1,1,1,1,1
+seq.7853.19,seq_7853_19,SCO1,"Protein SCO1 homolog, mitochondrial",O75880,6341,SCO1,0,0,0,0,0,1,0,0,0,0
+seq.7856.51,seq_7856_51,F151A,Protein FAM151A,Q8WW52,338094,FAM151A,1,0,1,1,1,0,0,0,1,0
+seq.7885.17,seq_7885_17,complement factor H-related 5,Complement factor H-related protein 5,Q9BXR6,81494,CFHR5,1,1,1,0,1,0,0,1,0,0
+seq.7893.19,seq_7893_19,OLR1,Oxidized low-density lipoprotein receptor 1,P78380,4973,OLR1,0,1,1,0,0,0,0,0,0,0
+seq.7905.30,seq_7905_30,HPT,Haptoglobin isoform 2,P00738,3240,HP,0,0,0,0,0,0,0,0,1,0
+seq.7909.37,seq_7909_37,SHBG,Sex hormone-binding globulin,P04278,6462,SHBG,0,0,0,0,0,1,0,0,0,0
+seq.7920.30,seq_7920_30,SIA8B,"Alpha-2,8-sialyltransferase 8B",Q92186,8128,ST8SIA2,0,0,1,0,0,0,0,0,0,0
+seq.7948.129,seq_7948_129,GLTD2,Glycolipid transfer protein domain-containing protein 2,A6NH11,388323,GLTPD2,1,1,1,0,0,0,1,1,1,1
+seq.7957.2,seq_7957_2,SCG3,Secretogranin-3,Q8WXD2,29106,SCG3,0,1,1,0,1,1,0,0,1,0
+seq.7970.315,seq_7970_315,NAR3,Ecto-ADP-ribosyltransferase 3,Q13508,419,ART3,1,0,1,1,1,1,1,1,1,1
+seq.7980.72,seq_7980_72,B3GN2,"N-acetyllactosaminide beta-1,3-N-acetylglucosaminyltransferase 2",Q9NY97,10678,B3GNT2,0,0,0,0,0,1,0,0,0,0
+seq.8042.88,seq_8042_88,ISK9,Serine protease inhibitor Kazal-type 9,Q5DT21,643394,SPINK9,1,1,1,1,1,1,1,1,1,1
+seq.8043.153,seq_8043_153,COMP,Cartilage oligomeric matrix protein,P49747,1311,COMP,0,1,1,0,1,1,0,0,0,0
+seq.8046.9,seq_8046_9,Galectin-1,Galectin-1,P09382,3956,LGALS1,1,0,0,0,0,0,0,1,0,0
+seq.8088.56,seq_8088_56,CA210,Type III endosome membrane protein TEMP,Q8IVY1,149466,C1orf210,1,1,0,0,0,0,0,1,1,0
+seq.8219.14,seq_8219_14,ZG16,Zymogen granule membrane protein 16,O60844,653808,ZG16,1,1,1,1,1,1,1,1,1,1
+seq.8221.19,seq_8221_19,MIF,Macrophage migration inhibitory factor,P14174,4282,MIF,1,1,0,1,1,0,0,0,1,0
+seq.8250.2,seq_8250_2,PTPRJ,Receptor-type tyrosine-protein phosphatase eta,Q12913,5795,PTPRJ,0,1,1,1,0,1,0,0,1,1
+seq.8253.2,seq_8253_2,PMGT1,"Protein O-linked-mannose beta-1,2-N-acetylglucosaminyltransferase 1",Q8WZA1,55624,POMGNT1,1,1,1,1,1,1,1,1,1,1
+seq.8269.327,seq_8269_327,ARSK,Arylsulfatase K,Q6UWY0,153642,ARSK,1,1,1,0,0,0,0,0,0,0
+seq.8295.16,seq_8295_16,NOE2,Noelin-2,O95897,93145,OLFM2,0,0,0,0,0,0,0,0,1,1
+seq.8299.66,seq_8299_66,LIRA4,Leukocyte immunoglobulin-like receptor subfamily A member 4,P59901,23547,LILRA4,0,0,0,0,0,0,0,1,1,0
+seq.8304.50,seq_8304_50,OPG,Tumor necrosis factor receptor superfamily member 11B,O00300,4982,TNFRSF11B,0,0,0,0,0,0,1,0,1,0
+seq.8312.139,seq_8312_139,Cytidylate kinase,UMP-CMP kinase,P30085,51727,CMPK1,0,0,0,0,0,0,0,0,0,1
+seq.8428.102,seq_8428_102,NTRI,Neurotrimin,Q9P121,50863,NTM,0,1,0,0,0,0,0,0,0,0
+seq.8463.2,seq_8463_2,SOD3,Extracellular superoxide dismutase [Cu-Zn],P08294,6649,SOD3,0,1,1,1,1,1,1,1,1,1
+seq.8468.19,seq_8468_19,PSA,Prostate-specific antigen,P07288,354,KLK3,0,0,0,0,1,0,0,0,0,0
+seq.8480.29,seq_8480_29,FBLN3,EGF-containing fibulin-like extracellular matrix protein 1,Q12805,2202,EFEMP1,0,0,0,0,1,0,0,0,0,0
+seq.8488.33,seq_8488_33,gpIIbIIIa,Integrin alpha-IIb: beta-3 complex,P08514|P05106,3674|3690,ITGA2B|ITGB3,0,0,1,0,0,0,0,0,0,0
+seq.8520.8,seq_8520_8,ADA30,Disintegrin and metalloproteinase domain-containing protein 30,Q9UKF2,11085,ADAM30,1,1,1,1,1,1,1,1,0,1
+seq.8589.13,seq_8589_13,CDCP1,CUB domain-containing protein 1,Q9H5V8,64866,CDCP1,0,0,1,0,1,1,1,0,0,0
+seq.8601.167,seq_8601_167,sLRP1:CD,"Low-density lipoprotein receptor-related protein 1, soluble:Cytoplasmic domain",Q07954,4035,LRP1,0,0,1,0,0,0,0,0,0,0
+seq.8606.39,seq_8606_39,GPNMB:CD,Transmembrane glycoprotein NMB:Cytoplasmic domain,Q14956,10457,GPNMB,0,0,0,0,0,0,0,0,1,1
+seq.8631.13,seq_8631_13,ERMAP,Erythroid membrane-associated protein,Q96PL5,114625,ERMAP,0,0,0,0,0,0,0,0,1,0
+seq.8644.46,seq_8644_46,Cathepsin H,Cathepsin H,P09668,1512,CTSH,0,0,1,1,1,1,1,1,1,1
+seq.8697.38,seq_8697_38,Glypican 1,Glypican-1,P35052,2817,GPC1,0,0,0,0,1,1,0,1,1,0
+seq.8804.39,seq_8804_39,COKA1,Collagen alpha-1(XX) chain,Q9P218,57642,COL20A1,0,0,0,0,0,0,0,0,0,1
+seq.8825.4,seq_8825_4,PILRA,Paired immunoglobulin-like type 2 receptor alpha,Q9UKJ1,29992,PILRA,0,0,0,0,0,0,0,0,1,0
+seq.8839.4,seq_8839_4,Metaxin-2,Metaxin-2,O75431,10651,MTX2,0,0,0,0,0,0,1,0,0,0
+seq.8841.65,seq_8841_65,CILP2,Cartilage intermediate layer protein 2,Q8IUL8,148113,CILP2,1,1,1,1,1,1,1,0,1,1
+seq.8948.13,seq_8948_13,ADA19,Disintegrin and metalloproteinase domain-containing protein 19,Q9H013,8728,ADAM19,1,0,0,0,0,0,0,0,0,0
+seq.8974.172,seq_8974_172,COFA1,Collagen alpha-1(XV) chain,P39059,1306,COL15A1,1,1,1,0,1,1,0,0,0,1
+seq.8983.7,seq_8983_7,GOLM1,Golgi membrane protein 1,Q8NBJ4,51280,GOLM1,0,0,0,1,0,0,0,0,0,0
+seq.8992.1,seq_8992_1,TMEM2,Transmembrane protein 2,Q9UHN6,23670,CEMIP2,0,0,1,0,0,1,0,1,0,1
+seq.8997.4,seq_8997_4,NPTXR,Neuronal pentraxin receptor,O95502,23467,NPTXR,1,1,1,1,1,1,1,1,1,1
+seq.9005.16,seq_9005_16,PLXA1,Plexin-A1,Q9UIW2,5361,PLXNA1,0,0,0,0,0,1,0,0,0,0
+seq.9028.5,seq_9028_5,PAPD1,"Poly(A) RNA polymerase, mitochondrial",Q9NVV4,55149,MTPAP,0,0,1,0,0,0,0,0,0,0
+seq.9077.10,seq_9077_10,MA1A2,"Mannosyl-oligosaccharide 1,2-alpha-mannosidase IB",O60476,10905,MAN1A2,0,0,0,0,0,0,1,0,0,0
+seq.9087.8,seq_9087_8,NHLC3,NHL repeat-containing protein 3,Q5JS37,387921,NHLRC3,1,0,1,1,0,0,0,0,0,0
+seq.9102.28,seq_9102_28,ZFY27:CD region 2,"Protrudin:Cytoplasmic domain, region 2, isoform 5",Q5T4F4,118813,ZFYVE27,0,1,0,1,1,1,0,0,0,0
+seq.9172.69,seq_9172_69,MMP-8,Neutrophil collagenase,P22894,4317,MMP8,0,0,0,0,1,0,0,1,1,1
+seq.9242.11,seq_9242_11,BTC,Betacellulin,P35070,685,BTC,0,0,0,0,0,0,0,1,0,0
+seq.9244.27,seq_9244_27,PPT1,Palmitoyl-protein thioesterase 1,P50897,5538,PPT1,0,0,0,0,0,1,0,0,0,0
+seq.9321.400,seq_9321_400,NMB,Neuromedin-B,P08949,4828,NMB,0,0,0,0,0,0,0,1,0,0
+seq.9361.7,seq_9361_7,PCDC2,Protocadherin alpha-C2,Q9Y5I4,56134,PCDHAC2,0,0,0,0,1,0,0,0,0,0
+seq.9368.64,seq_9368_64,LRTM1,Leucine-rich repeat and transmembrane domain-containing protein 1,Q9HBL6,57408,LRTM1,1,1,1,1,1,1,1,1,1,1
+seq.9377.25,seq_9377_25,SCF,Kit ligand,P21583,4254,KITLG,0,0,1,0,1,0,0,1,1,0
+seq.9385.4,seq_9385_4,GAA,Lysosomal alpha-glucosidase,P10253,2548,GAA,0,1,1,1,1,1,0,0,0,0
+seq.9409.11,seq_9409_11,TRYB1,Tryptase beta-1,Q15661,7177,TPSAB1,0,1,1,1,1,1,0,1,1,1
+seq.9453.12,seq_9453_12,VEGF-B,Vascular endothelial growth factor B,P49765,7423,VEGFB,0,0,0,0,1,0,0,0,0,0
+seq.9484.75,seq_9484_75,Desmoglein-2,Desmoglein-2,Q14126,1829,DSG2,0,0,0,0,0,0,1,0,0,0
+seq.9524.46,seq_9524_46,S31D4,Putative spermatogenesis-associated protein 31D4,Q6ZUB0,389761,SPATA31D4,0,0,0,0,1,0,0,0,0,0
+seq.9595.11,seq_9595_11,B4GT2,"Beta-1,4-galactosyltransferase 2",O60909,8704,B4GALT2,1,0,0,0,1,0,1,1,1,1
+seq.9599.6,seq_9599_6,PIANP,PILR alpha-associated neural protein,Q8IYJ0,196500,PIANP,0,0,0,0,1,0,1,0,1,0
+seq.9750.7,seq_9750_7,S100A4,Protein S100-A4,P26447,6275,S100A4,0,0,0,1,0,1,0,0,0,0
+seq.9756.6,seq_9756_6,TAGL,Transgelin,Q01995,6876,TAGLN,0,0,0,0,0,1,1,1,1,0
+seq.9759.13,seq_9759_13,INDO,"Indoleamine 2,3-dioxygenase 1",P14902,3620,IDO1,0,0,0,0,0,0,0,0,1,0
+seq.9779.63,seq_9779_63,HERP2,Homocysteine-responsive endoplasmic reticulum-resident ubiquitin-like domain member 2 protein,Q9BSE4,64224,HERPUD2,0,0,0,0,0,1,0,0,0,0
+seq.9793.145,seq_9793_145,IGDC4,Immunoglobulin superfamily DCC subclass member 4,Q8TDY8,57722,IGDCC4,0,0,0,0,0,0,1,1,0,0
+seq.9864.38,seq_9864_38,TTC1,Tetratricopeptide repeat protein 1,Q99614,7265,TTC1,1,1,1,1,1,1,1,1,1,1
+seq.9883.29,seq_9883_29,Glyoxalase I,Lactoylglutathione lyase,Q04760,2739,GLO1,1,1,1,1,1,1,1,1,1,1
+seq.9894.13,seq_9894_13,MYO6,Unconventional myosin-VI,Q9UM54,4646,MYO6,0,0,0,0,1,0,0,0,0,0
+seq.9906.21,seq_9906_21,TICN3,Testican-3,Q9BQ16,50859,SPOCK3,0,0,0,0,0,1,0,0,0,0
+seq.9910.9,seq_9910_9,MTAP,S-methyl-5'-thioadenosine phosphorylase,Q13126,4507,MTAP,0,0,0,0,0,0,0,0,1,0
+seq.9931.20,seq_9931_20,Keratin-1,"Keratin, type II cytoskeletal 1",P04264,3848,KRT1,0,0,0,1,0,0,0,0,0,0
+seq.9932.49,seq_9932_49,SEM4F,Semaphorin-4F,O95754,10505,SEMA4F,0,0,0,1,0,0,0,0,0,0

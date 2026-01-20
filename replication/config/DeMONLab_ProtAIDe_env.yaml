@@ -1,0 +1,36 @@
+name: ProtAIDe
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - pip=24.2
+  - python=3.9.21
+  - pip:
+      - imbalanced-learn==0.12.4
+      - imblearn==0.0
+      - importlib-metadata==8.7.0
+      - importlib-resources==6.5.2
+      - ipykernel==6.30.1
+      - ipython==8.18.1
+      - joblib==1.4.2
+      - jupyter==1.1.1
+      - matplotlib==3.9.4
+      - matplotlib-inline==0.1.7
+      - matplotlib-venn==1.1.2
+      - numba==0.60.0
+      - numpy==2.0.2
+      - opentsne==1.0.2
+      - optuna==4.4.0
+      - pandas==2.2.3
+      - pandocfilters==1.5.1
+      - patsy==1.0.1
+      - scikit-learn==1.6.1
+      - scikit-learn-extra==0.3.0
+      - scipy==1.13.1
+      - seaborn==0.13.2
+      - shap==0.48.0
+      - statsmodels==0.14.4
+      - tabpfn==2.1.0
+      - torch==2.5.0
+      - tqdm==4.67.1
+      - xgboost==2.1.4
