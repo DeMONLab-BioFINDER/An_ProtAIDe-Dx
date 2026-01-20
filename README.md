@@ -12,7 +12,7 @@
 
 ---
 
-The rapid growth of the dementia population underscores the urgent need for accessible, scalable biomarkers of neurodegenerative diseases. Such biomarkers are crucial for improving early diagnosis, confirming (co-)pathologies, and optimizing participant selection in clinical trials. This highlights the need for a one-shot, multi-disease biomarker panel that is expected to be minimally invasive, cost-effective, and widely accessible. In this work, we developed ProtAIDe-Dx to analyze complex, high-dimensional proteomics data from GNPC, the largest neurodegenerative disease proteomics dataset to date (N = 17,187). We hope this work establishes a robust benchmark for AI-driven proteomics approaches and supports precision medicine in neurodegenerative diseases.
+The rapid growth of the dementia population underscores the urgent need for accessible, scalable biomarkers of neurodegenerative diseases. Such biomarkers are crucial for improving early diagnosis, confirming (co-)pathologies, and optimizing participant selection in clinical trials. This highlights the need for a one-shot, multi-disease biomarker panel, while emerging high-throughput plasma proteomics technologies offer promising avenues. In this work, we developed ProtAIDe-Dx to analyze complex, high-dimensional proteomics data from GNPC, the largest neurodegenerative disease proteomics dataset to date (N = 17,187). We hope this work establishes a robust benchmark for AI-driven proteomics approaches and supports precision medicine in neurodegenerative diseases.
 
 ![main_figures_from_paper](./ProtAIDe-Dx.jpg)
 
