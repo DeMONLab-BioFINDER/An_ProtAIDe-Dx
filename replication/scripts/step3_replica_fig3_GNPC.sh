@@ -12,7 +12,7 @@ CKPT_DIR=$ROOT_DIR'/checkpoints/ProtAIDeDx/'
 RESULTS_DIR=$ROOT_DIR'/results/replica/Fig3'
 hyper_params_path=$ROOT_DIR'/checkpoints/ProtAIDeDx/ProtAIDeDx_HyperParams.csv' 
 aptamers_info_path=$ROOT_DIR'/data/Selected_SomaLogic7k_Aptamers.csv'
-ref_results_path=$ROOT_DIR'/replication/refer_results/Fig3_GNPC_ref.pkl'
+ref_results_path=$ROOT_DIR'/replication/ref_results/Fig3_GNPC_ref.pkl'
 
 EXP="CV"
 input_dir_exp=$DATA_DIR'/'$EXP'/deep_input'

@@ -10,7 +10,7 @@ cd $ROOT_DIR
 PROTAIDEDX_RESULTS_DIR=$ROOT_DIR'/results/replica/Fig1/ProtAIDeDx'
 OUPUT_DIR=$ROOT_DIR'/results/replica/Fig2'
 SPLITS_DIR_CV=$ROOT_DIR'/data/replica/CV/splits'
-REF_DIR=$ROOT_DIR'/replication/refer_results'
+REF_DIR=$ROOT_DIR'/replication/ref_results'
 probaThresholds_path=$ROOT_DIR'/checkpoints/ProtAIDeDx/ProtAIDeDx_ProbaThresholds.csv' 
 
 

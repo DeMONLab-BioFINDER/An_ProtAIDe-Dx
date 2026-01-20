@@ -12,7 +12,7 @@ CKPT_DIR=$ROOT_DIR'/checkpoints/replica'
 RESULTS_DIR=$ROOT_DIR'/results/replica/Fig5_GNPC'
 ProtAIDeDx_prediction_dir=$ROOT_DIR'/results/replica/Fig1/ProtAIDeDx'
 multiVisit_data_path=$ROOT_DIR'/data/replica/raw/GNPC_Soma7k_MultiVisit.csv'
-ref_results_path=$ROOT_DIR'/replication/refer_results/Fig5_GNPC_ref.pkl'
+ref_results_path=$ROOT_DIR'/replication/ref_results/Fig5_GNPC_ref.pkl'
 
 
 python -m src.posthoc.MMSE_LME_GNPC \

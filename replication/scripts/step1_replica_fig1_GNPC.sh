@@ -9,7 +9,7 @@ ROOT_DIR="$(dirname "$(dirname "$SCRIPT_DIR")")"
 cd $ROOT_DIR
 DATA_DIR=$ROOT_DIR"/data/replica"
 CKPT_DIR=$ROOT_DIR'/checkpoints/ProtAIDeDx/'
-REF_DIR=$ROOT_DIR"/replication/refer_results"
+REF_DIR=$ROOT_DIR"/replication/ref_results"
 RESULTS_DIR=$ROOT_DIR'/results/replica/Fig1'
 hyper_params_path=$ROOT_DIR'/checkpoints/ProtAIDeDx/ProtAIDeDx_HyperParams.csv' 
 probaThresholds_path=$ROOT_DIR'/checkpoints/ProtAIDeDx/ProtAIDeDx_ProbaThresholds.csv' 
