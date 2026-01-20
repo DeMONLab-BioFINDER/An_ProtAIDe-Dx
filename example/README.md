@@ -37,7 +37,13 @@ Please also note that ProtAIDe-Dx was trained on `SomaLogic 7k` `plasma proteomi
 
 ---
 
-In our `example/ExampleUsage.ipynb` notebook, we provide a step-by-step guide on how to apply the pre-trained ProtAIDe-Dx models on the simulated dataset. The notebook covers data preprocessing, disease classification, individual probability visualization, SHAP analysis for model interpretation, and correlate biomarkers with model embeddings or predicted probabilities.
+In our `example/ExampleUsage.ipynb` notebook, we provide a step-by-step guide on how to apply the pre-trained ProtAIDe-Dx models on the simulated dataset. This notebook covers:
+
+1. data preprocessing;
+2. disease classification;
+3. individual probability visualization;
+4. SHAP analysis for model interpretation;
+5. Correlate biomarkers with model embeddings or predicted probabilities.
 
 ## Clean up
 
