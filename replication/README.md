@@ -110,7 +110,7 @@ bash replication/scripts/step3_replica_fig3_GNPC.sh
 Once the script is done, you can see an message `Congrats! You have replicated Fig3: permFIT` if you have successfully replicated. Meanwhile, you can find a very similar tSNE figure at `results/replica/Fig3/Fig3_ImportanceProteins.png` like below:
 
 <div align="center">
-  <img src="./readme_figures/Fig3_ImportantProteins.png" alt="Figure" width="720">
+  <img src="./readme_figures/Fig3_ImportantProteins.png" alt="Figure" width="1080">
 </div>
 
 ### Generalization performances of ProtAIDe-Dx (leave-one-site-out)
@@ -197,7 +197,7 @@ Once the script is done, you can see an message `Congrats! You have replicated F
 Thanks to the rich biomarkers available in BioFINDER-2, we could also correlate these biomarkers with embeddings of ProtAIDe-Dx model. You should see an message `Congrats! You have replicated Fig4: Embedding-Biomarker Corr` if you have successfully replicated. Meanwhile, you can find a very similar heatmap figure at `results/replica/Fig4_BF2/EmbBiomarkerCorr/Fig4_BF2_EmbBiomarkerCorr.png` like below:
 
 <div align="center">
-  <img src="./readme_figures/Fig4_BF2_EmbBiomarkerCorr.png" alt="Figure" width="540">
+  <img src="./readme_figures/Fig4_BF2_EmbBiomarkerCorr.png" alt="Figure" width="720">
 </div>
 
 ### Clinical utility validation
