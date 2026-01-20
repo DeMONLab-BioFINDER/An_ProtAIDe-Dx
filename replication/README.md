@@ -94,7 +94,7 @@ bash replication/scripts/step2_replica_fig2_GNPC.sh
 Once the script is done, you can see an message `Congrats! You have replicated Fig2: tSNE` if you have successfully replicated. Meanwhile, you can find a very similar tSNE figure at `results/replica/Fig2/Fig2_tSNE.png` like below:
 
 <div align="center">
-  <img src="./readme_figures/Fig2_tSNE.png" alt="Figure" style="max-width: 20%;">
+  <img src="./readme_figures/Fig2_tSNE.png" alt="Figure" width=120>
 </div>
 
 ### Model explanation
