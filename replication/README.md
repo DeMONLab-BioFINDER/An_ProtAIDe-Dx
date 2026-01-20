@@ -39,7 +39,7 @@ Once you have access to the AD Workbench, you can find all GNPC data for this pa
 
 The [BioFINDER-2](https://biofinder.se/two/) study is a prospective cohort in the south of Sweden spanning the full continuum of AD as well as including patients with non-AD neurodegenerative diseases.
 
-To access BioFINDER-2 data, please contact [BioFINDER Excecutive Committee](bf_executive@med.lu.se) for data access. As we noted in `Data Availability` section of our manuscript, pseudoanymized BioFINDER-2 data will be shared by request from a qualified academic investigator for the sole purpose of replicating procedures and results presented in the article and as long as data transfer is in agreement with EU legislation on the general data protection regulation and decisions by the Swedish Ethical Review Authority and Region Skåne, which should be regulated in a material transfer agreement. For internal users, you can check with `Lijun`.
+To access BioFINDER-2 data, please contact [BioFINDER Excecutive Committee](mailto:bf_executive@med.lu.se) for data access. As we noted in `Data Availability` section of our manuscript, pseudoanymized BioFINDER-2 data will be shared by request from a qualified academic investigator for the sole purpose of replicating procedures and results presented in the article and as long as data transfer is in agreement with EU legislation on the general data protection regulation and decisions by the Swedish Ethical Review Authority and Region Skåne, which should be regulated in a material transfer agreement. For internal users, you can check with `Lijun`.
 
 ## GNPC replication
 
