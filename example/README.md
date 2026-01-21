@@ -13,7 +13,7 @@
 We recommend using `conda` to create a virtual environment for running the example code. You can create and activate the environment by running:
 
 ```bash
-conda env create -f replication/config/DeMONLab_ProtAIDe.yaml -n ProtAIDe
+conda env create -f replication/config/DeMONLab_ProtAIDe_env.yaml -n ProtAIDe
 conda activate ProtAIDe
 ```
 
