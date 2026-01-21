@@ -13,7 +13,7 @@
 We recommend using `conda` to create a virtual environment for running the example code. You can create and activate the environment by running:
 
 ```bash
-conda env create -f replication/config/DeMONLab_ProtAIDe.yaml -n ProtAIDe
+conda env create -f replication/config/DeMONLab_ProtAIDe_env.yaml -n ProtAIDe
 conda activate ProtAIDe
 ```
 
@@ -43,7 +43,6 @@ In our `example/ExampleUsage.ipynb` notebook, we provide a step-by-step guide on
 2. disease classification;
 3. SHAP analysis for model interpretation;
 4. Correlate biomarkers with model embeddings or predicted probabilities.
-5. Stay tuned for more analyses!
 
 ## Clean up
 
