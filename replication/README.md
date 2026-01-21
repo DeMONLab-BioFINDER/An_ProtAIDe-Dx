@@ -47,10 +47,10 @@ To access BioFINDER-2 data, please contact [BioFINDER Excecutive Committee](mail
 
 Once you have access to GNPC workspace, you could replicate the main GNPC results in our manuscript by following the instructions below.
 
-First of all, please find this repository at `/files/NMED-A141173/DeMONLab/An_ProtAIDe-Dx` and run following commands:
+First of all, please find this repository at `/files/NMED-A141173/An_ProtAIDe-Dx` and run following commands:
 
 ```bash
-cd /files/NMED-A141173/DeMONLab/An_ProtAIDe-Dx
+cd /files/NMED-A141173/An_ProtAIDe-Dx
 bash replication/scripts/step0_prepare_GNPC.sh
 ```
 
