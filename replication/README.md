@@ -14,10 +14,10 @@ Given that both GNPC and BioFINDER-2 datasets contain sensitive patient informat
 
 ---
 
-We used `conda` to manage the Python environment for this project. Please create a new conda environment with following commands and install the required packages using the provided `replication/config/DeMONLab_ProtAIDe.yaml`.
+We used `conda` to manage the Python environment for this project. Please create a new conda environment with following commands and install the required packages using the provided `replication/config/DeMONLab_ProtAIDe_env.yaml`.
 
 ```bash
-conda env create -f replication/config/DeMONLab_ProtAIDe.yaml -n ProtAIDe
+conda env create -f replication/config/DeMONLab_ProtAIDe_env.yaml -n ProtAIDe
 conda activate ProtAIDe
 ```
 
