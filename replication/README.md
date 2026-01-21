@@ -166,9 +166,10 @@ First, please run following commands to prepare the data folders:
 bash replication/scripts/step0_prepare_folders_BF2.sh
 ```
 
-Remember to put `BF2_Soma7k_Baseline.csv` and `BF2_MMSE_long.csv` under `data/replica/raw/` folder.
+> [!NOTE]
+> Remember to put `BF2_Soma7k_Baseline.csv` and `BF2_MMSE_long.csv` under `data/replica/raw/` folder.
 
-Then, you can run the following scripts to replicate the main BF2 results step by step.
+After that, you can run the following scripts to replicate the main BF2 results step by step.
 
 ### K-shot learning performances of ProtAIDe-Dx
 
