@@ -52,7 +52,7 @@ X_processed = gen_example_input(X)
 # 3. Load pre-trained ProtAIDe-Dx model
 ProtAIDeDx_model = load_ProtAIDeDx_model()
 # 4. Apply ProtAIDe-Dx on simulated data
-y_pred, embeddings = model_infer(ProtAIDeDx_model, X_processed)
+pred_probas, embeddings = model_infer(ProtAIDeDx_model, X_processed)
 ```
 
 ## Notebook example
