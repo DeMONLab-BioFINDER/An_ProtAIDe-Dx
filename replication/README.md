@@ -239,4 +239,4 @@ bash replication/scripts/step8_clean_replica.sh
 
 ---
 
-Please contact Lijun An at anlijuncn@gmail.com for any questions or issues.
+Please open a GitHub issue for any bugs or questions about the code. We will do our best to respond as soon as possible.

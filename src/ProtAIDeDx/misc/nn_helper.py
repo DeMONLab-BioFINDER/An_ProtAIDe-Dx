@@ -103,11 +103,13 @@ def load_pretrained_weights(InputHead,
         tuple: Tuple containing the updated InputHead and ProAIDeModel
     """
     if suffix == 'CV':
-        model_dict = load_pkl(os.path.join(checkpoint_dir, 
-                                           'ProtAIDeDx_CrossValidation_10Folds.pkl'))
+        model_dict = load_pkl(
+            os.path.join(checkpoint_dir, 
+                         'ProtAIDeDx_CrossValidation_10Folds.pkl'))
     else:
-        model_dict = load_pkl(os.path.join(checkpoint_dir, 
-                                           'ProtAIDeDx_LeaveOneSiteOut_14Sites.pkl'))
+        model_dict = load_pkl(
+            os.path.join(checkpoint_dir, 
+                        'ProtAIDeDx_LeaveOneSiteOut_14Sites.pkl'))
 
     InputHead_state = model_dict[split]['InputeHead']
     ProAIDeModel_state = model_dict[split]['ProtAIDe']

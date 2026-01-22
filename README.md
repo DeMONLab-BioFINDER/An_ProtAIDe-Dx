@@ -20,12 +20,25 @@ The rapid growth of the dementia population underscores the urgent need for acce
 
 ---
 
+Our project strucrture is as follows:
+
+```
+An_ProtAIDe-Dx/
+├── checkpoints/                 # Fitted models
+│   ├── data_proc/               # Fitted data processing pipelines
+│   └── ProtAIDeDx/              # Fitted ProtAIDe-Dx models (cross-validation and leave-one-site out)
+├── data/                        # Simulated data and metadata used by the pipeline
+├── example/                     # Minimal runnable examples and demo Jupyter notebook
+├── replication/                 # Scripts/configs to reproduce main results
+└── src/                         # Source code
+```
+
 ### Environment setup
 
 ---
 
-- Our code uses Python, here is the setup procedure:  
-  i. Install Miniconda or Anaconda with Python 3.x if you don't have conda installed;  
+- Our code uses Python, here is the setup procedure:
+  i. Install Miniconda or Anaconda with Python 3.x if you don't have conda installed;
   ii.Create a conda environment using `conda env create -f replication/config/DeMONLab_ProtAIDe_env.yaml -n ProtAIDe`.
 
 ### Example
@@ -50,4 +63,4 @@ The rapid growth of the dementia population underscores the urgent need for acce
 
 ---
 
-Please contact Lijun An at anlijuncn@gmail.com.
+Please open a GitHub issue for any bugs or questions about the code. We will do our best to respond as soon as possible.
