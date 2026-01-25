@@ -37,8 +37,8 @@ An_ProtAIDe-Dx/
 
 ---
 
-- Our code uses Python, here is the setup procedure:
-  i. Install Miniconda or Anaconda with Python 3.x if you don't have conda installed;
+- Our code uses Python, here is the setup procedure:  
+  i. Install Miniconda or Anaconda with Python 3.x if you don't have conda installed;  
   ii.Create a conda environment using `conda env create -f replication/config/DeMONLab_ProtAIDe_env.yaml -n ProtAIDe`.
 
 ### Example
