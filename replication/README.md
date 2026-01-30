@@ -10,11 +10,17 @@ Given that both GNPC and BioFINDER-2 datasets contain sensitive patient informat
 
 ---
 
+### Hardware recommendation
+
+---
+
+To successfully replicate the results, we recommend using a machine with CUDA enabled NVIDIA GPU with at least 16GB vRAM and at least 32GB RAM. The replication scripts have been tested on a Linux x86_64 machine with 1x NVIDIA Tesla T4 GPU and 108GB RAM.
+
 ### Conda environment
 
 ---
 
-We used `conda` to manage the Python environment for this project. Please create a new conda environment with following commands and install the required packages using the provided `replication/config/DeMONLab_ProtAIDe_env.yaml`.
+We used `conda` to manage the Python environment for this project. Please create a new conda environment with following commands and install the required packages using the provided `replication/config/DeMONLab_ProtAIDe_env.yaml`. It usually takes less than 10 minutes to finish the installation.
 
 ```bash
 conda env create -f replication/config/DeMONLab_ProtAIDe_env.yaml -n ProtAIDe
